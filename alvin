@@ -1055,15 +1055,6 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
 #https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV HD
-#EXTGRP:INDONESIA TV
-http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3MvcU5CUjJCSWZTR1FJRnF2VXEyQQ 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV
-#EXTGRP:INDONESIA TV
-http://ikitv.sqn.at:8000/play/a00c/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV be
 #EXTGRP:INDONESIA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1090,24 +1081,34 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV HD
+#EXTGRP:INDONESIA TV
+#http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3MvcU5CUjJCSWZTR1FJRnF2VXEyQQ 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV
+#EXTGRP:INDONESIA TV
+#http://ikitv.sqn.at:8000/play/a00c/index.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV",SCTV V+
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR hd
 #EXTGRP:INDONESIA TV
-http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
+#http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR
 #EXTGRP:INDONESIA TV
-http://ikitv.sqn.at:8000/play/a52/index.m3u8
+#http://ikitv.sqn.at:8000/play/a52/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR be
 #EXTGRP:INDONESIA TV
@@ -1151,10 +1152,6 @@ https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/ind
 #EXTINF:-1 tvg-id="tvOne.id" group-title="INDONESIA TV" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne HD
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8?app_type=web&userid=wnctpm5uf2j&chname=tvOne
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="tvOne.id" group-title="INDONESIA TV" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne 
-http://ikitv.sqn.at:8000/play/a020/index.m3u8
-
 #EXTINF:-1 tvg-id="tvOne.id@SD" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1172,7 +1169,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="INDONESIA TV",TRANS TV 
-http://gvisiontv.channell.my.id/ch/id/transtv.m3u8
+#http://gvisiontv.channell.my.id/ch/id/transtv.m3u8
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1189,11 +1186,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="INDONESIA TV",TRANS TV HD
-http://ikitv.sqn.at:8000/play/a064/index.m3u8
+#http://ikitv.sqn.at:8000/play/a064/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Trans7.id" group-title="INDONESIA TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans 7 HD
-http://ikitv.sqn.at:8000/play/a019/index.m3u8
+#http://ikitv.sqn.at:8000/play/a019/index.m3u8
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1208,10 +1205,23 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=10
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg" group-title="INDONESIA TV",ANTV (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg" group-title="INDONESIA TV",ANTV Vidio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=782
+https://tvratu.my.id/vid/index.mpd?id=782
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV HD V++
 #EXTGRP:INDONESIA TV
-http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
+#http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV
 #EXTGRP:INDONESIA TV
@@ -1229,26 +1239,13 @@ http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=10
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg" group-title="INDONESIA TV",ANTV (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg" group-title="INDONESIA TV",ANTV Vidio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=782
-https://tvratu.my.id/vid/index.mpd?id=782
-
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=13
 #EXTINF:-1 tvg-id="Kompas.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/kompastv.jpg" group-title="INDONESIA TV",KOMPAS TV (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="Kompas.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/kompastv.jpg" group-title="INDONESIA TV",KOMPAS TV HD
-http://ikitv.sqn.at:8000/play/a011/index.m3u8
+#http://ikitv.sqn.at:8000/play/a011/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="Kompas.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/kompastv.jpg" group-title="INDONESIA TV",KOMPAS TV 
@@ -2639,6 +2636,283 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd|user-age
 #EXTINF:-1 group-title="📺KNOWLEDGE CHANNEL" tvg-id="CGTNDocumentary" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/lnvRUDl.jpg",CGTN DOCUMENTARY
 https://fta3-cdn-flr.visionplus.id/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd  
 
+#========================================================  ====================================================================
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cdce02de4ee021313752bf3f4170fb4:60dbfbe941a0462e0d56a95c7b9e3bee
+#EXTINF:-1 tvg-id="SCIENCE_IS_AMAZING" tvg-name="Science is Amazing" tvg-logo="" group-title="⭐KNOWLEDGE⭐",SCIENCE IS AMAZING (NITRO)
+https://a82aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/d9iunfir77/out/v1/4c1ded14e2db44d59915910e6dc2284d/cenc.mpd?encoding=segmentBase
+##https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/d9iunfir77/out/v1/4c1ded14e2db44d59915910e6dc2284d/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f96d75ed2d96faf9af0857c8e2fbca3:454198d857d8a58591e654321c5e7824
+#EXTINF:-1 group-title="⭐KNOWLEDGE⭐" tvg-logo="",UNSOLVED MYSTERIES (NITRO)
+https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/ezzzdqdq6n/out/v1/15b0b244788c4620abb49708d0b1b37e/cenc-sd.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4d68bcc5dfb7b3d46f5d8acc435e84d:21e94e24b5a1b1edca66764857471584
+#EXTINF:-1 tvg-id="TRUE_HISTORY" tvg-name="True History" tvg-logo="" group-title="⭐KNOWLEDGE⭐",TRUE HISTORY (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q3gjkjvw6b/out/v1/ae342f822d9045f683a622f5b39c8daa/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53a72a67b3a71fad6f4b7863336184e4:2c41a547022ec33cc99720c2d4c1b7e8
+#EXTINF:-1 tvg-id="STARTALK" tvg-name="StarTalk" tvg-logo="" group-title="⭐KNOWLEDGE⭐",STARTALK (NITRO)
+https://a73aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/20e3xywbum/out/v1/45f29ac5121847959c3a60ae068e729b/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⭐KNOWLEDGE⭐",ANIMAL PLANET (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
+#EXTINF:-1 group-title="⭐KNOWLEDGE⭐" tvg-logo="",AMAZON MOVIES (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f94bae425abea0ccacec08b2e72b7d07:8eea02108392c61aa79663bc064fc600
+#EXTINF:-1 tvg-id="BBC_TREASURES" tvg-name="BBC Treasures" tvg-logo="" group-title="⭐KNOWLEDGE⭐",BBC TREASURES (NITRO)
+###https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aczgdiuxsu/out/v1/31374ef324ce4bd2bd278b78f4a97d60/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27adff179a63db8066aa6733cb30d918:5a4e36391d13c94a4bf925d8fd8a236c
+#EXTINF:-1 tvg-id="MAGELLANTV_WILDEST" tvg-name="MagellanTV Wildest" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MAGELLANTV WILDEST (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fsvs0bvb7h/out/v1/cac331ecba3b4d86b58a1a0a706a82eb/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9d9ff22763b83b4ff72001f9ce632c5:b55821341a79541aba79b759cc823be1
+#EXTINF:-1 tvg-id="PBS_NATURE" tvg-name="PBS Nature" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS NATURE (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qi23sqygqv/out/v1/cb1c6fe397164335b456dd8a33cb821b/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a94324af694aae8210572186c7cf1c04:63c879aa2e3128d12e12ba6956c99c01
+#EXTINF:-1 tvg-id="PBS_KEN_BURNS" tvg-name="PBS Ken Burns" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS KEN BURNS (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zaf7e2tnmr/out/v1/94ef3b285f51419791b3b435ce449255/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=016ea4104bdc43d9a1cf81d50f8ec0d6:d4fdfa9c49307246cdafb6598cbcb255
+#EXTINF:-1 tvg-id="SPACE_BEYOND" tvg-name="Space & Beyond" tvg-logo="" group-title="⭐KNOWLEDGE⭐",SPACE BEYOND (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1bqgd0dlxj/out/v1/a032ddc3b3cb4b509462280f7afda8a2/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a37ce8d3160b036da8fd40ccf583ac41:0b82dcfa0995bbc6f382a3d8ef066ab9
+#EXTINF:-1 tvg-id="PBS_TRAVEL" tvg-name="PBS Travel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS TRAVEL (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/out/v1/5d9a60deddcd460d8eb8d685dfe5e148/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a37ce8d3160b036da8fd40ccf583ac41:0b82dcfa0995bbc6f382a3d8ef066ab9
+#EXTINF:-1 tvg-id="PBS_TRAVEL" tvg-name="PBS Travel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS TRAVEL (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/out/v1/5d9a60deddcd460d8eb8d685dfe5e148/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d97cf2527ef9b9d20afd7dd446af50b:87713be5a27996ee6901bd46a791f06b
+#EXTINF:-1 tvg-id="PBS_DOCUMENTARIES" tvg-name="PBS Documentaries" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS DOCUMENTARIES (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5kgj4foeaa/out/v1/aac8e6bb3b924bdf896032592ada5a3c/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a1319db5711198dbbcef15051cd7ed4:fa19bbf85c39454ae1fe1044d9499e39
+#EXTINF:-1 tvg-id="PBS_GENEALOGY" tvg-name="PBS Genealogy" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS GENEALOGY (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qnbo1nztd/out/v1/2d032a09cb444d2b9fab58faf40db397/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d4056f8f4078c5f5a5cfb283dd6cddc:c590b5ad9d3a6eac5cc27507ce34089e
+#EXTINF:-1 tvg-id="TRAVEL_AND_ADVENTURE" tvg-name="Travel and Adventure" tvg-logo="" group-title="⭐KNOWLEDGE⭐",TRAVEL AND ADVENTURE
+https://a76aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wrc2mmbfhf/out/v1/6b5f96b0ac5c4e6f9306f9606432ae87/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53ff5adf42d6c9bc1043248f17782efe:76252c668a94753e9a5a58c8e17880e3
+#EXTINF:-1 tvg-id="HOME_CRASHER" tvg-name="Home Crasher" tvg-logo="" group-title="⭐KNOWLEDGE⭐",HOME CRASHER
+https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/djm9xxvfud/out/v1/745da049932d4db4b5148638ed3c08f0/cenc-sd.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a149d8edbd85136248129dd3bbabc5f:45b4f449b8583890ad0b5a50694b16a3
+#EXTINF:-1 tvg-id="TASTEMADE" tvg-name="Tastemade" tvg-logo="" group-title="⭐KNOWLEDGE⭐",TASTEMADE
+https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/jkn6ehrlni/out/v1/9af4f7d76c5f4d4fb0e55c19733d6652/cenc-sd.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6faaa019c4750430494f30858cd0174d:fff6edbf610f765d2deed97572ffaae4
+#EXTINF:-1 tvg-id="HOW_TO" tvg-name="How To" tvg-logo="" group-title="⭐KNOWLEDGE⭐",HOW TO (NITRO)
+http://a82aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/1jfeesd7iv/out/v1/90757ad6933344b78ea6da676a8b8c97/cenc.mpd?encoding=segmentBase
+##https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/1jfeesd7iv/out/v1/90757ad6933344b78ea6da676a8b8c97/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
+#EXTINF:-1 tvg-id="NAT_GEO_SHARKS" tvg-name="Nat Geo Sharks" tvg-logo="" group-title="⭐KNOWLEDGE⭐",NAT GEO SHARKS (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
+#EXTINF:-1 tvg-id="NAT_GEO_SHARKS" tvg-name="Nat Geo Sharks" tvg-logo="" group-title="⭐KNOWLEDGE⭐",NAT GEO SHARKS (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
+#EXTINF:-1 tvg-id="CURIOSITY_NOW" tvg-name="Curiosity Now" tvg-logo="" group-title="⭐KNOWLEDGE⭐",CURIOSITY NOW (NITRO)
+https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
+#EXTINF:-1 tvg-id="CURIOSITY_NOW" tvg-name="Curiosity Now" tvg-logo="" group-title="⭐KNOWLEDGE⭐",CURIOSITY NOW (NITRO)
+https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c0a1b444fe06383801eb7e6c3d42c5b:49020a53f5703243d2c25dc090e83faf
+#EXTINF:-1 tvg-id="DINOS_24_7" tvg-name="Dinos 24/7" tvg-logo="" group-title="⭐KNOWLEDGE⭐",DINOS 24/7 (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x3nmcouwjh/out/v1/1afd49d8a5a4498680e97b0206006811/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e4f091aa3f162f2b37bb9bfc22d67e2:868caee53170b0b75804f4463ecd80d5
+#EXTINF:-1 tvg-id="EARTHDAY_365" tvg-name="EarthDay 365" tvg-logo="" group-title="⭐KNOWLEDGE⭐",EARTHDAY 365 (NITRO)
+###https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6ovm8kpzl0/out/v1/2c07bb80f1c241b3828ce427530e9741/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e66c5d1959f79a1156b38a0d081843ee:ba4edb5fab98976c81d147e942d9e784
+#EXTINF:-1 tvg-id="HISTORY_UNTOLD" tvg-name="History Untold" tvg-logo="" group-title="⭐KNOWLEDGE⭐",HISTORY UNTOLD (NITRO)
+https://a182aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/u00dw9gxcx/out/v1/362826aa6ec044578910c263b7aaa632/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=163975022cfd582eefca8d9e3a9ef4ea:95e911ecff6b8bbcd8c5ca6ea4219d02
+#EXTINF:-1 tvg-id="MODERN_MARVELS" tvg-name="Modern Marvels" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MODERN MARVELS (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xt0kntz2vb/out/v1/a5c9712cac43483baaf7314645fe6e9c/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dcf7207dd39c334d64c5059f6721639:d6b433c51aa8a84586126e42eb69bed0
+#EXTINF:-1 tvg-id="MYTHBUSTERS" tvg-name="Mythbusters" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MYTHBUSTERS (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugmfjiqwfd/out/v1/1c2804035667405cba6b37162ae105ea/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a0b04c7e6cee331b1bfc3bade173679:7eb84ef9f9a595b8264c592acff00f82
+#EXTINF:-1 tvg-id="ROVR_PETS" tvg-name="Rovr Pets" tvg-logo="" group-title="⭐KNOWLEDGE⭐",ROVR PETS (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xd2n6xcdrj/out/v1/241665ca85f54611bad30cb2ed23289f/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4398eb0b3eb86786e4ec7127312cd0:3fec84cee711701c7ada5163ba77b98d
+#EXTINF:-1 tvg-id="REAL_DISASTER_CHANNEL" tvg-name="Real Disaster Channel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",REAL DISASTER CHANNEL (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/orgtigwisa/out/v1/de928716d3d845d5aa5635080fbd5098/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d264da818cdcc2b79aed140c7513d30:f72e7aee419cfb474ee38ba664c5edef
+#EXTINF:-1 tvg-id="MYSTERIOUS_WORLDS" tvg-name="Mysterious Worlds" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MYSTERIOUS WORLDS (NITRO)
+https://a51aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/9w8aklof7x/out/v1/9d30f39ba2464bb4a764e337ba0f03ad/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
+#EXTINF:-1 tvg-id="LOVE_NATURE" tvg-name="Love Nature" tvg-logo="" group-title="⭐KNOWLEDGE⭐",LOVE NATURE (NITRO)
+https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f61f911fcd0a2eb37ce0b1d9629dc56:dd6abd1f533209d1bbcf50a61ec23cc2
+#EXTINF:-1 tvg-id="COMBAT_WAR_CHANNEL" tvg-name="Combat War Channel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",COMBAT WAR CHANNEL (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/il20sicd8s/out/v1/d2bfb9b1f48a4929a61507d03620a681/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e5886198b5a39670e10ec1016df0189:52280419504b2693427e8aff62810604
+#EXTINF:-1 tvg-id="THE_JACK_HANNA_CHANNEL" tvg-name="The Jack Hanna Channel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",THE JACK HANNA CHANNEL (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pmsghnlchw/out/v1/4c81d0ae119b4b0296e7056ef0b3d3e1/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bb2e1d9e7d6eecf3983ad25612f171:effff701c5df21107721deb4a4e3dae0
+#EXTINF:-1 tvg-id="BBC_EARTH" tvg-name="BBC Earth" tvg-logo="" group-title="⭐KNOWLEDGE⭐",BBC EARTH (NITRO)
+https://a82aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd?encoding=segmentBase
+##https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d59c706f0beacd15d11b9ca8a55a3b90:b3facec819b89b565ef5635bf8a77cb9
+#EXTINF:-1 tvg-id="MILITARY_HEROES" tvg-name="Military Heroes" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MILITARY HEROES (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rgzxepokao/out/v1/2be3181942bd4abdbc244bd614396ddd/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d733f0ac4bd88702afb22ba8cd27aad9:5c3f0468b3e5e7c88d4f342812c08ea4
+#EXTINF:-1 tvg-id="MODERN_INNOVATIONS_BY_HISTORY" tvg-name="Modern Innovations by History" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MODERN INNOVATIONS BY HISTORY (NITRO)
+https://a188aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hikx7374m8/out/v1/ce26c25968b34e0fa3a8c9a4ce222f67/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbfd8a5d79b8b84e5b65be1a0ee17dba:99e5e91fc3f9c297abed36000fb1fe88
+#EXTINF:-1 tvg-id="HISTORY_HIT_CHANNEL" tvg-name="History Hit Channel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",HISTORY HIT CHANNEL (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w91wojgmz7/out/v1/e105d6321667470d872c9bb3d519e6d5/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=389f95d8a9d666b885df3872450c0b8b:0371633c8f328383f6cef95c37f57e84
+#EXTINF:-1 tvg-id="SONY_ONE_SHARK_TANK" tvg-name="Sony One Shark Tank" tvg-logo="" group-title="⭐KNOWLEDGE⭐",SONY ONE SHARK TANK (NITRO)
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xvkpuhekwh/out/v1/fc62186207f04a7fb30080364fdc2aa9/cenc.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -3053,7 +3327,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=114&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=114
+KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=114&type=fitnah
 KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
 #EXTINF:-1 tvg-id="Sportstars.3.id" tvg-name="Sportstars 3" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars3.jpg" group-title="SPORTS",SPORTSTARS 3
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
@@ -3061,7 +3336,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=206&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=205&type=fitnah
 KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=205
 #EXTINF:-1 tvg-id="Sportstars.4.id" tvg-name="Sportstars 4" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="SPORTS",SPORTSTARS 4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
@@ -3069,7 +3344,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=115&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=115
+KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=115&type=fitnah
 KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=115
 #EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-name="Soccer Channel" tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="SPORTS",SOCCER CHANNEL
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
@@ -4911,22 +5187,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 group-title="DIGI SPORT" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 1
+#EXTINF:-1 group-title="DIGI SPORT" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kuk1.modprimus1.cfd/000/
 https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
-#EXTINF:-1 group-title="DIGI SPORT" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 2
+#EXTINF:-1 group-title="DIGI SPORT" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg", DIGI SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kuk1.modprimus1.cfd/000/
 https://kuk1.modprimus1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 
-#EXTINF:-1 group-title="DIGI SPORT" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 3
+#EXTINF:-1 group-title="DIGI SPORT" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg", DIGI SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.zalmora1.cfd/000/
 https://pulse1.zalmora1.cfd/kuk3/usergendxt1v8klq6rnd.m3u8
 
-#EXTINF:-1 group-title="DIGI SPORT" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 4
+#EXTINF:-1 group-title="DIGI SPORT" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg", DIGI SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.zalmora1.cfd/000/
 https://pulse1.zalmora1.cfd/kuk4/usergendlg1ks0t2n.m3u8
