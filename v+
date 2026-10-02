@@ -19,6 +19,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
 
+#EXTINF:-1 tvg-id="RCTI.id@SD" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -32,6 +37,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32/dash/TU5DVFY/manifest.mpd?signature=YjE3NGI5OWFhZjNmZDBlOWE1N2RiZWUwMTQ4OTg4ZDg=&time=77777777777&device_id=2hyIVWh1ZOuGubXNJabMMoN24xymf4c2e8lxsuEH2pw50mIM6Q
+
+#EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
