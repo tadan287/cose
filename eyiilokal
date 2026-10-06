@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="⛔.:© 2026 ApisTECH:. ⛔" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="⛔.:© 2026 BANGSAT:. ⛔" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI  (R+)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -34,10 +34,15 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32/dash/TU5DVFY/manifest.mpd?signature=YjE3NGI5OWFhZjNmZDBlOWE1N2RiZWUwMTQ4OTg4ZDg=&time=77777777777&device_id=2hyIVWh1ZOuGubXNJabMMoN24xymf4c2e8lxsuEH2pw50mIM6Q
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OBgBuvZCK6k9dV3Ncjdz5hl0lqMrnSNVGvHdzvRFcHnQ1DIf1vSQCSY&s=10" group-title="INDONESIA",GTV (1)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OBgBuvZCK6k9dV3Ncjdz5hl0lqMrnSNVGvHdzvRFcHnQ1DIf1vSQCSY&s=10" group-title="INDONESIA",GTV (R+) 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="INDONESIA" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtv.jpg",GTV (R+)
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OBgBuvZCK6k9dV3Ncjdz5hl0lqMrnSNVGvHdzvRFcHnQ1DIf1vSQCSY&s=10" group-title="INDONESIA",GTV (2)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
@@ -46,10 +51,15 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32/dash/R1RWLUNIQU5ORUw/manifest.mpd?signature=ZjcxYzJiYTg3OWIzMjA1MTkxMTUyYTk4MDA4MjM3OGE=&time=77777777777&device_id=j4Pn0bA1JE5hgQIWJO4wwmE4JhNUDJIw2nUbK8Q3Ea9z-6sEXw
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdquDjBINKIYNU4OyBKnq-AgWtcEYbf_SzVckmf_ALg&s=10",iNews (1)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdquDjBINKIYNU4OyBKnq-AgWtcEYbf_SzVckmf_ALg&s=10",iNews (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="INDONESIA" tvg-name="INEWS" tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg",INEWS (R+)
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
