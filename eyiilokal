@@ -167,6 +167,12 @@ https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-26da9f0c09ef5b1a204f368aa2cb3e30/dash/S29tcGFzIFRW/manifest.mpd?signature=M2M2YTVkMzExOGIxM2QyNzdlNzg0NTJhMGFjNDlmMDM=&time=77777777777&device_id=vVVl-OsEIAESnwrXX8zF8iBn3y5xneBw1poRRPk_xJbfNpIiHA
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mentaritv2.png",Mentari tv
+#EXTGRP:INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
+
 #EXTINF:-1 tvg-id="MDTV.id@HD" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
@@ -285,6 +291,229 @@ https://hgmtv.com:2020/hls/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
+#EXTINF:-101 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/makkah.png",MAKKAH TV
+https://flv.intechmedia.net/live/ch14.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
+#EXTINF:-1 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/MADINA.jpeg",Madinah TV
+https://flv.intechmedia.net/live/ch13.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
+#EXTINF:-106 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/insantv.png",INSAN TV
+https://flv.intechmedia.net/live/ch1.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
+#EXTINF:-1  group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/ahsan%20tv.png" ,Ahsan TV
+https://flv.intechmedia.net/live/ch4.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
+#EXTINF:-1   group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/muadztv.jpeg",Muadz TV
+https://flv.intechmedia.net/live/ch5.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
+#EXTINF:-100 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/NAAJIYATV.png",NAAJIYA TV
+https://flv.intechmedia.net/live/ch7.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
+#EXTINF:-109 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/HIJRAH.jpeg",HIJRAH TV
+https://flv.intechmedia.net/live/ch8.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
+#EXTINF:-105 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/alimantv.png",AL IMAN TV
+https://flv.intechmedia.net/live/ch9.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
+#EXTINF:-110 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/sjp%20tv.png",SJP TV
+https://flv.intechmedia.net/live/ch17.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
+#EXTINF:-1 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/madani%20tv.png", Madani TV
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
+#EXTINF:-116 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/binbaztv.png",BINBAZ TV
+https://flv.intechmedia.net/live/ch22.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
+#EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/Izzah%20TV.png",Izzah TV
+https://flv.intechmedia.net/live/ch28.m3u8
+
+#EXTINF:-1 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/tv9.webp",TV9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/mtq.png",MTQ TV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/Al%20Wafa%20Tarim%20TV.jpeg",Al Wafa Tarim TV
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",Hub Premier 1
+#EXTGRP:LIVE | LIGA INGGRIS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065802&extension=ts&play_token=KI0Dwrrojh
+https://ott.djdoolky76.io/api/streams/167/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",Hub Premier 2
+#EXTGRP:LIVE | LIGA INGGRIS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065803&extension=ts&play_token=f1Sj0jPTQq
+https://ott.djdoolky76.io/api/streams/169/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",Hub Premier 3
+#EXTGRP:LIVE | LIGA INGGRIS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065801&extension=ts&play_token=3itVpZavMD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",Hub Premier 4
+#EXTGRP:LIVE | LIGA INGGRIS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065800&extension=ts&play_token=AJOBpvWctv
+https://ott.djdoolky76.io/api/streams/282/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",Hub Premier 5
+#EXTGRP:LIVE | LIGA INGGRIS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065799&extension=ts&play_token=na9Tc2ybzS
+https://ott.djdoolky76.io/api/streams/283/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",Hub Premier 6
+#EXTGRP:LIVE | LIGA INGGRIS
+https://ott.djdoolky76.io/api/streams/284/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",StarSports Selet 1
+#EXTGRP:LIVE | LIGA INGGRIS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
+
+#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",STAR SPORTS SELECT 1 FHD✅
+#EXTGRP:LIVE | LIGA INGGRIS
+##http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",StarSports Selet 2
+#EXTGRP:LIVE | LIGA INGGRIS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&extension=ts&play_token=J4GC1hp8Ut
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",FUBO SPORTS
+#EXTGRP:LIVE | LIGA INGGRIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 1
+#EXTGRP:LIVE | LIGA INGGRIS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 2
+#EXTGRP:LIVE | LIGA INGGRIS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 3
+#EXTGRP:LIVE | LIGA INGGRIS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 4
+#EXTGRP:LIVE | LIGA INGGRIS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 5
+#EXTGRP:LIVE | LIGA INGGRIS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐ BEIN SPORTS 1 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐ BEIN SPORTS 2 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&extension=ts&play_token=Zm6f5ZFVvM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐ BEIN SPORTS 3 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985129&extension=ts&play_token=TPQ8WmP7DF
+
+#EXTINF:-1 ttvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BEIN SPORTS 4 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985130&extension=ts&play_token=oFFcF0hSHZ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐ BEIN SPORTS 5 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985131&extension=ts&play_token=VHa3jbdD8x
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BEIN SPORTS 6 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985132&extension=ts&play_token=gADjKCMGWq
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BEIN SPORTS 7 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985133&extension=ts&play_token=vn0lYlSzrp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT PREMIER LEAGUE HD (RUTUBE)
+#EXTGRP:LIVE | LIGA INGGRIS
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.jpg",HBO TAIWAN 🇹🇼
+#EXTGRP:HBO GROUP
+https://play-drm.aliiptv.com/live/hbotw.m3u8?verify=1790056444-tDBo1je7aKklYPa7xgm2umnr4TGv8S5mpTeKOZX4rPs
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbofam.jpg",HBO FAMILY TAIWAN 🇹🇼
+#EXTGRP:HBO GROUP
+https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbohits.jpg",HBO HITS TAIWAN 🇹🇼
+#EXTGRP:HBO GROUP
+https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbosig.jpg",HBO SIGNATURE TAIWAN 🇹🇼
+#EXTGRP:HBO GROUP
+https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.jpg",HBO TS
+#EXTGRP:HBO GROUP
+http://013tv.com:8080/F33848/cbd9779b/306484
+http://013tv.com:8080/F33848/cbd9779b/197972
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbofam.jpg",HBO FAMILY TS
+#EXTGRP:HBO GROUP
+http://013tv.com:8080/F33848/cbd9779b/197972
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbosig.jpg",HBO Signature TS
+#EXTGRP:HBO GROUP
+http://013tv.com:8080/F33848/cbd9779b/306483
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbohits.jpg",HBO HITS TS
+#EXTGRP:HBO GROUP
+http://013tv.com:8080/F33848/cbd9779b/306486
+http://013tv.com:8080/F33848/cbd9779b/196480
+http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34540
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.jpg",HBO NITRO
+#EXTGRP:HBO GROUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fafc24484004893326a8354fe889767:01a4a713abdc5803f4816831ee27906f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.jpg",HBO 2 NITRO
+#EXTGRP:HBO GROUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.jpg",HBO LATINO 🇺🇸 NITRO
+#EXTGRP:HBO GROUP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=440df5a5f7730c64f005eec9b12a9b52:dcad08b714e246f92cb9748f9e2e7e1e
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd
 
 #############################################################################################################
 ##########################################   National TV   ##################################################
