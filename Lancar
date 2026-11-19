@@ -1,100 +1,505 @@
-#EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
+#EXTM3U
 
-//========================================================================
-🔸🔸 Koleksi TV Nasional 🔸🔸
-//========================================================================
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglMsjrAO4lxyPx6Adc08adwnfGQ35zHwfTy3_kTvHP8roN2Slkltbe2Li3zTLY7UegUDp-DLDsoqZPNnz2YG41pS3qYwubdC3gW1c6fwuH-yo2M7FxnKRDQwvKagWpMwYeq-8tgqsZ6VU4Z_qaRaPYuIGUBX51kzIoB0OEcBXdg-e8G2mG2YEjSg9vrj8/s750/TVRI.png" group-title="Indonesia",TVRI
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1,RCTI
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/26
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIPjAPrS6YVLgMN8kQYw5ck7IyxDoquot_sLKAU4nVWOrEL7KKumB8gI0fYTF5gm8kQkH7uS3_jg4id16pw1uYjMuIgHwHuJe9cduyZ5HsNoUuTLZUgei-zjrk-r_JpiHCKnjp7ZUmb6G1ZbHQnUL0sfe8Xm8Ly5vWUvV9rNQGG-zx3JPkiFIZXX394Fc/s750/TVRI%20World.png" group-title="Indonesia",TVRIᵂᵒʳˡᵈ
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1,MNC TV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/22
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" group-title="Indonesia" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ZOoFZv54pElbPO4DhafeA5fX_8erPPrX6zpBg617H1LMYp_0fc72k4H38BI0DIccKwGPF2GOwr1Cq3sezh2Zq9tAytdc6G-nV9vdIcq4jbhMFrPe9aashEiGfN3UIQSFzqw-xw-sEaeGHrWmTPHH_995aSuYLkWVBWfoJWjUpq2pmCROtuIvqQ0xx8o/s750/TVRI%20Sports.png",TVRIˢᵖᵒʳᵗ
-https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/87
+#EXTINF:-1,GTV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/9
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXlEcSEekqhGviiAmUldsTJ1jN9uivGiviyg2wQjDQqoYjH5pVw-MdvOP2pBy_TMmjqCMZmmL1HX7Q2LWyYEUqGnttdmeob246IwJnXpIiiPCIDciLsIpCk3Vs6rlnog0vhSnT66hclbpq7rfmcV9719WHu4uqsOOT3dO_m-p9yeP7AeABFgAcVrYYJfQ/s750/RCTI.png",RCTI
-https://iptv.lancartech.co.id:443/Guntur@823/12061313/26
+#EXTINF:-1,iNews
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/12
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghyguY0mNaYhCI1_A_w7xgLhlhAKMeKD_wBcdme7qkfoRNMnU79mwJFmgIe-f0-B7bjYZZBRFKpFs33uO5KNxUkQRmQ2FyFEL4T6NrH2DspesiUJEpHoNyy1-t7p6efMkOe4d3q4Yle7K_OUk2TMlbHEqeAJUqJFHM2N1Ovd3VKNWw1PFMgHGNIYib7Ro/s750/MNCTV.png" group-title="Indonesia",MNCTV
-https://iptv.lancartech.co.id:443/Guntur@823/12061313/22
+#EXTINF:-1,SCTV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/30
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG423TfMUEmFr8MTpAxkjq6o6z-swkvVB5wXpTMEQUoZ5OMCrK6hVk4bxISqvgSY2JtbTl4_HZSIKgkbW3xrd2ju991KAoZuMxBYvW6WqO33w2Bnn7IzH6hC9peNW2PXHvipFVM53hxU7aTnzbGitFiR8XOTk1Xa24NOciExoFNPmogs-Y1TqCcUlZ9QU/s750/GTV.png" group-title="Indonesia",GTV
-https://iptv.lancartech.co.id:443/Guntur@823/12061313/9
+#EXTINF:-1,STV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXwidwXi8K3rIvOAzFa6cRAwnjmuYcb09LNq-gJgsyEoibjlQyh_8CJ-o-nYWEVAxb8dd4DThEBGTEh1RBZmrfcxfBbjBSxcn2w63qrFXvPmF-UKBAiHxxrMlhAKMDqTgy-VhitYUfA7r-T7eD4ewnO7u0fEcF7kWtUiW5OD5BmfSQhpbI8fzyrEhBcJg/s700/Inews.png" group-title="Indonesia",iNews
-https://iptv.lancartech.co.id:443/Guntur@823/12061313/12
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5ZxnsrB6Bdo-dJPFQPt0JbVIaKuqsUQ64IPxgn2LbGS06VpZXdPiO8lzKSWutPXpCN6b77TL0Syhnvi74YUTmQU5tVUt4RFjsYGORHETAqtXMI3TFmBrYeHX6crmo4LN_SjNuso0Lr7rz6JXcBfdSwytD6bNrezPCQpehO3rcxHlDQIBC-WjqbnmG-XA/s700/SCTV.png" group-title="Indonesia",SCTV
-https://iptv.lancartech.co.id:443/Guntur@823/12061313/30
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nY_fTWpo6H6BSeP3oSX2oWRiGmrT6EY60uQWOVFzsavMTG29cAFOrmu6n5VXeW1-ix365X-TEJOAa1bihheR2Z6FIu1h4x9oFO-TSdgMpQ-f2_npOSqcOwkUBgnlS_xClG7jpGlgABPkukv7t_chyphenhyphen5gDKwlBYLK3IPsxANMUWKd5h7SyFGj6N6RK05c/s700/IndosiarV2.jpg" group-title="Indonesia",Indosiar
+#EXTINF:-1,Indosiar
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/11
 
-#EXTINF:-1 xui-id="5582" tvg-id="Moji.id@SD" tvg-name="Moji TV" group-title="Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIe3h_GCqX-_Uxck7B5gSQi3JGWKUjmReK9y0PkUIB9QMSCMvyxjmjaHKRaTR1pSilIt8Y1TKjHBw-0b2jO8z5Z7L0gpBs6oSuv6wFe17ljQvOWzl4vmP9O3GzPR3UB-jPkgigC9lg-jg2fg07DHeJSJA7GVKGmiF2nnl-fEucBXrgvrpVAX1uVL9DU8/s700/MojiTV.png",Moji TV
-https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnmKHWA-mK37GzzHhXcoeVLs
+#EXTINF:-1,TV One
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/36
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNKhhS3DiPAuSmWryFr6AzZDPquV22EKo3hf-PvsFm83qQA3gAvPs1VmB_vylBEced6Aok9FTFBEnJMTsJt51nJsgCdCFzk4jSsa1EBH8lCSW2KKd9R52idKqfyhKEgnFtt_-E-6NyMZkX2Ihld3iEoK-AMO_wnUtG4CtnX2n4Lhn5rJatbtys1qGfsPE/s750/Trans7.png" group-title="Indonesia",Trans 7
+#EXTINF:-1,Trans 7
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/33
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgea2_pkEKNUboSprJKTbE_nzHeKc-pkSF3TgMvSbtwqQuumwLWaM8r36H2AKI7BmbnI_xbDohRLrMfQZkeit2HKL9fBuplavEGz2RXer75oiYZBspcAiEQdwwtm2M-Pe7_OsLXB_aORyygFtRDJoA3Q5IKwTvnyrHgs0Fhi0lT9YQe08ozrrePjXioW4g/s750/TransTV.png" group-title="Indonesia",Trans TV
+#EXTINF:-1,Trans TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/34
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpc9fbG79uZOmieX7ri7X4248xNtPaUM7sTvUQMWJ3tEIURjM6BJFNISBEfqKHthvIWtNbenBt5SkDfap-a09-pzXm5P5v_KvzmEAlwTcJcj-Stko4lvWXE3WwdFV6hbLTwyV3Vrcb5HU70OnttE72yeqejhC-I161jymx9uSXnutX768UuHfLNzaLenk/s700/ANTV.png" group-title="Indonesia",ANTV
-https://iptv.lancartech.co.id:443/Guntur@823/12061313/1
-
-#EXTINF:-1 xui-id="110" tvg-id="rajawali_tv" tvg-name="RTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE70T7cngm-aKJdsIasb3vlm-xSSqJqr51l9PY_KpDC1-XuQ3UmBCiGVjjqx_FXRuuSFurtM6NArCfDjQmLzXs-mVbK-xU9jYkqPruWcxE82yz4Cb2t2rmJUVK_uua7HcFF0YYt_YSJf2FdYqPCv5W6xVWoMXABwAjNA7ZsWQgiVWSSjdwYtaTS3SDNQM/s700/RTV.png" group-title="Indonesia",RTV
-https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnvSSQxiYNOG98c4D0uNAp7k
-
-#EXTINF:-1 xui-id="5577" tvg-id="tvOne.id" tvg-name="tvOne" group-title="Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBG70QUh2fSQOp5ueyAtWfhGYoGTA5h7WfI8eXj5hfrtez8EbmBmI7FL9jpUdoACvgFp83D_wWQgQnrHHWZW5Y4yuz5F0JnlnMfj94_Fl2CF09kDtWgDnI0R2_rSKQW0uqahChzleBnjMZrQFo1yn99UTafh8JnbsictKetG6_5QdMgf0BP53l4wa2Cy4/s700/TVOne.png",TV One
-https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnkTX4h9xE7OUyKBKskJczuU
-
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKfJ5RRZOF3TWOhJa375DNaHAPToZ3uHwJQr2X5VJwYEE-SuC0UKEqtS1p2Wh6KENiiMnqDQbAW_1I6seQjE_0YaWAjze82RB-MY_6SbZRxWayxVLl3Q_5lqXd_RwIlx2Ikvp91Hi0renWDz1KbjoWnKTQDV9pN90kn09yWOK7fhWx6s9RSCJTinEqDxo/s700/KompasTV.png" group-title="Indonesia",Kompas TV
+#EXTINF:-1,Kompas TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/16
 
-#EXTINF:-1 xui-id="5578" tvg-id="MetroTV.id" tvg-name="METRO TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja8N1jALWIsKlNSfVr0Q729xo08fWZymhbHxrgO0Dw7EGo4BsfKkseR9_r5ERMFRbcm0vOZB7dCyiP5VBPkPM873t6bPS_TegZ9ugF67_tX0OjaEu3OVe9EOFFeSevJjuz6ofGYtdVrp2eHOcMeBIyAGsJJI2E1WjwZpUqeEheF8M5cOoqPhkU0DZi6qQ/s700/MetroTV.png" group-title="Indonesia",Metro TV
-https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnrml-VDgtG_HOf1dFjiQioY
+#EXTINF:-1,ANTV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/1
 
-#EXTINF:-1 xui-id="1" tvg-id="CNN" tvg-name="CNN Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihGq3yBVm_5mI5xqxyxCra_DJuJUMhN2hNs5RcPHhzh-anWutaQraldx4FcOXYCKFrv-qt8r8FERxv1COb_vk6KLKo7Ap8W6i5AKlh54Q8fOR4z5d2md2XL2S6F74QP3LWheGOrHTXEIuAOYJ9j8D_LQAuC279TKyOLwCmVpD863oh6ZrYgwamaaF_p_g/s700/CNNIndo.png" group-title="Indonesia",CNN Indonesia
-https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnnCKbXUFE_4q5ugcg5IIU2E
-
-#EXTINF:-1 xui-id="4" tvg-id="CNBC.id" tvg-name="CNBC Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvJJpia4b4gO_GuLrv_TlCuh9ZobeW-TLDOpbewGW3FP7K7k3t-IO1qQQiabk1MVuAYwWe4__WbbhJ7GG6cb3RIPhl95weZsPL790_AQOY8GlTMadkJwNgXlqMsp0ex1PmDIht-34BsbAH6n1kQAiQ8D8YeOmytLKUcB4h9DfGlbQOn2w_ChiH4UFnOk/s700/CNBCInt.png" group-title="Indonesia",CNBC Indonesia
-https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcntxTo97o44QdHGpUEmu4OqU
-
-#EXTINF:-1 tvg-id="SindoNewsTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipv_Hgk-Cx6auWpWiNo1xTk0aZ8L_GMmEcAdaYPRv3vcjhyphenhyphenamiijndpdfEJ-1hGbGpqb9D4baF07L-xiQJWrzOB4WtJ1A0Aw3AUPShXvbUqOCp5y2t3ru8yF0VPATNQfiJMxFOKhzAmUiEzdYquZg-cLSfHQsE7KXNiKOsKzmkz82_rr8WdaZeXAJJrmA/s700/1000126869.png" group-title="Indonesia",SindoNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=5
-https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
-
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ9g7ME4c5CHSey8rDgNeFGicuKtNLoiO5fUq26yqi7KVyyIj8UUkf_QadrY39vB7LeB4Vy2K9JkYYW_42xCqYrTaGIH0TVG5xERYNYaC4z_NApppGUImsux5GVEltATkm95m3Mwq0WnsWrVfwDe9WKdPhX3050CgWBVScYW8JeIRtRy4FhN1FS4ELINM/s700/BTV.png" group-title="Indonesia", BTV  
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
-http://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
-
-#EXTINF:-1 tvg-id="BRTV.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1HBSHHAY-rzzytRlEB6Jc5ooeOIfQWrctDX3GWrVcnoWVwHasVRUIAQfd1d5s8PrFneS1-Rqw8atGaNxDra6ySNWH417C1yaM5TepiNWkvbRH5iqqa_z4pJmmGTZTi73ZMg41jdxoTTRIDzqbevrUg9l3-qCM1OPfXToUkTV6fV2WX7dGXSl-cVdfUV0/s700/BRTV.png" group-title="Indonesia",BRTV
-https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BeritaSatu.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgspIZI9dnudgp4AgJYL3PY_f_uDAnduYYfya2dalqx_HIIVJA5KmiahmS-MfEpZr6dCcZ5DNYF_QyChxppFmfB2vcp57_zfcG15nQ9GhTvfLbefVrllPwMlXG7_UxSzr4DUSsZGP5fh4e2UMYFhN7AN6BX2TZUBdPOuud_zIeAfdEYiHf_VA5bzOtK92k/s700/BeritaSatu.png" group-title="Indonesia", Berita Satu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9btfyWmqZ_GEAKro_wddYvFrtiQ3jgAr8Blq8-twHu43SnXVbNQkNxRQ1_EaDhh0tDS_TQzI-MYB1uksULXFgsL3AzqoSXMUHcaFeo1gtEoxkRKlrLZiMw7rWV044loHrIJP67tdvMUpfTGLfBXdNI0N4Ol3xsZFIKFVTn5H0z-aAm9tu1UfBav9BeVE/s700/DAAITV.png" group-title="Indonesia",Daai TV
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MD TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUjgGwVRIz2ZmgTGC-0la6hFxx4skt9YxZ2c1HX9paWJJCPaK8u8RtJXoz4mDlLG2-1n7mh-xIC1BuCap2raz-ahMBQJe4c6F7MdHPsJpVREq5Ik7rVKJGfSm8W4kYv6wUpTwS8hKp5Z0-uVqWxM2WPQSvcdxULdcKhvFWD_gECX4a9aew1p8nx-6kU4/s700/MDTV.png" group-title="Indonesia",MDTV
+#EXTINF:-1,MD TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/19
 
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEildzotlUGcWyCz1PglhOlnz3Vb6-pt0KkQN9BERU-udjD12zQCEloJEHDv7Jo0LHFBRTJOL9eK6Q9ontEptTIBzPhs5pv-vh8B7FSjwW9azjeza1vm1zciqMj69jw6HmLz5l2CqOlQuwyvOoT-LfUPiyNg2i5T6WUPi4enN8TGDzUr7B_n737Fs2FtYOg/s700/MentariTV.png" group-title="Indonesia",Mentari TV
+#EXTINF:-1,RTV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/29
+#EXTINF:-1,RTV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
+#EXTINF:-1,Mentari TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/20
 
-#EXTINF:-1 tvg-id="IDXChannel.id@SD" group-title="Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpy747ymNH4O5u05WWPFZAWgfZjN6b9jtDQ3S2KjKGFJQ4jknx4zNg-Z-ma16uhrWGuaVob9YUMMPCvA-sgj-u054JJ73QftdaesViR8VJCZ8L-iZi3nVPnyblkcbBCEORJ9fU4UbUDo7xW-W3THBElDxwxo2VDw9ewaTNmMWpWsq96NU7lkglSvmJA6c/s700/IDX.png",IDX Channel
+#EXTINF:-1,CNBC Indonesia
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/4
+#EXTINF:-1,CNBC Indonesia 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/idx/index.m3u8
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="RodjaTV.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDKTIC0LNCmoWsBC-UO-y5BX5RB2iI5K6qyB7sNOjT1ayBPLV0MfpFsfniHStWlP5yy-HE2_HGejXRH4zpfInOGXfHI9Ui3bPLr3lgZvubnNRn9fWizFBYfb91VUi2yOtLmJcj0fxVO0VA4jCV7rQysgfOdGylv0n1Ndh3RX4c8bwG29Ro5fWDXUHraLo/s700/RodjaTV.png" group-title="Indonesia" ,Rodja TV
+#EXTINF:-1,CNN Indonesia
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/5
+#EXTINF:-1,CNN Indonesia 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+#EXTINF:-1,Metro TV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/21
+#EXTINF:-1,Metrotv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1,Moji
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/23
+#EXTINF:-1,DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1,The indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1,BN Channel
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/2
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [END] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+#EXTINF:-1,BTV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/3
+#EXTINF:-1,ficom chanel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1,Garuda TV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/7
+#EXTINF:-1,Garudatv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1,dhohotv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF:-1,Magna Channel
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/18
+
+
+#EXTINF:-1,Balikpapan tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1,Nusantara tv
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1,Banjartv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+
+#EXTINF:-1,DUTA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1,JAMBI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1,JAWAPOST
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1,JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1,JTV kediri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1,JTV madiun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1,BMStv
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+#EXTINF:-1,BRTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#EXTINF:-1,BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+#EXTINF:-1,Bugotv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:-1,tabalong tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1,TVRI Nasional
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/37
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1,TVRI KALTIM
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+
+#EXTINF:-1,UGTV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/39
+
+#EXTINF:-1,TATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1,Radartv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+
+#EXTINF:-1,PONTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1,padangtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1,KSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+
+#EXTINF:-1,Kawanuatv
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+
+
+#EXTINF:-1,DENS FOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
+
+#EXTINF:-1,Cartoon Network
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/174
+
+#EXTINF:-1,VTV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/40
+
+#EXTINF:-1,Animax
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/169
+
+#EXTINF:-1,Cartoonito
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/173
+#EXTINF:-1,Nick Jr
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/182
+
+#EXTINF:-1,Nickelodeon
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/181
+
+#EXTINF:-1,Dream Works
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/177
+
+
+#EXTINF:-1,Makkah TV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/189
+#EXTINF:-1,NABAWITV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://202.150.161.117:8000/play/NabawiTV
+#EXTINF:-1,MADANI tv
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+#EXTINF:-1,Alwafataim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1,Albahjatv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://202.150.161.117:8000/play/AlBahjahTV
+#EXTINF:-1,Ajwa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/27
+#EXTINF:-1,Rodja TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/28
+#EXTINF:-1,Rodja
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1,Ahsan tv
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+#EXTINF:-1,MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1,Linkartv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1,Rinjanitv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://rinjanitv.cloud/hls/tvkabel.m3u8
+#EXTINF:-1,salamtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.salamtelevisi.com/hls/0/stream.m3u8
+#EXTINF:-1,saliratv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.salira.tv/p/3870/hybrid/play.m3u8
+#EXTINF:-1,TV9 nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+
+#EXTINF:-1,HBO
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/52
+
+#EXTINF:-1,HBO Family
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/53
+
+#EXTINF:-1,HBO Hits
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/54
+
+#EXTINF:-1,HBO Signature
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/55
+
+#EXTINF:-1,Cinemax
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/48
+
+#EXTINF:-1,AXN
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/42
+
+#EXTINF:-1,Galaxy Premium
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/51
+
+#EXTINF:-1,Galaxy
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/50
+
+#EXTINF:-1,ZeeBioskop
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/69
+
+#EXTINF:-1,Thrill
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/57
+
+#EXTINF:-1,K+
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/62
+
+#EXTINF:-1,TvN
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/143
+
+#EXTINF:-1,TvN Movies
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/67
+
+#EXTINF:-1,Citra Drama
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/127
+
+#EXTINF:-1,Warner TV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/68
+
+#EXTINF:-1,Hits
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/86263
+
+#EXTINF:-1,HITS Movies
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/58
+
+#EXTINF:-1,HITS Now
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/56
+
+#EXTINF:-1,Citra Bioskop
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/49
+
+#EXTINF:-1,Rock Entertainment
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/139
+
+#EXTINF:-1,Lifetime
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/136
+
+
+#EXTINF:-1,ITALIAN FISHING CH
+https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
+
+#EXTINF:-1,WIRED 2 FISH
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+
+#EXTINF:-1,Wired 2 Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+
+#EXTINF:-1,FISHING TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
+#EXTINF:-1,JUST FISHING
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
+
+#EXTINF:-1,TVRI Sport
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/87
+
+#EXTINF:-1,Live 2 - World Cup
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/85589
+
+#EXTINF:-1,Live 3 - World Cup
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/85590
+
+#EXTINF:-1,Fox Sport 1
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83277
+
+#EXTINF:-1,Fox Sport 2
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83278
+
+#EXTINF:-1,Bein Sport 1 AU
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83279
+
+#EXTINF:-1,Bein Sport 2 AU
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83280
+
+#EXTINF:-1,beIN Sports 1
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/70
+
+#EXTINF:-1,BeIN Sports 1 backup
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/95
+
+#EXTINF:-1,Bein Sports ID 1+
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/72
+
+#EXTINF:-1,Bein Sports ID 2+
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/73
+
+#EXTINF:-1,Premier Sports 4
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83285
+
+#EXTINF:-1,Premiere Sport 2
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83283
+
+#EXTINF:-1,Premiere Sport 3
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83284
+
+#EXTINF:-1,Red Bull TV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/80
+
+#EXTINF:-1,SPO TV 1 ID
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/84
+
+#EXTINF:-1,SPO TV 2 ID
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/85
+
+#EXTINF:-1,TNT Sports 1
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/27840
+
+#EXTINF:-1,TNT Sports 2
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/27841
+
+#EXTINF:-1,TNT Sports 3
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/27842
+
+#EXTINF:-1,TNT Sports 4
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/27843
+
+
+#EXTINF:-1,History
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/167
+
+#EXTINF:-1,Discovery Asia
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/164
+
+#EXTINF:-1,Love Nature
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/168
+
+#EXTINF:-1,HGTV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/134
+
+#EXTINF:-1,Crime & Investigation
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/130
+
+#EXTINF:-1,Animal Planet
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/162
+
+#EXTINF:-1,Discovery Channel
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/165
+
+#EXTINF:-1,DMAX
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/166
+
+#EXTINF:-1,Asia Food Network
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/125
+#EXTINF:-1,Food Network
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/133
+
+#EXTINF:-1,Jiangsu TV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/61
+
+#EXTINF:-1,Hunan TV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/59
+
+
+#EXTINF:-1,Anhui TV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/41
+
+#EXTINF:-1,Arirang
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/124
+
+#EXTINF:-1,CNBC Asia
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/150
+
+#EXTINF:-1,Fashion TV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/131
+
+#EXTINF:-1,First Warrior
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/78
+
+#EXTINF:-1,TLC
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/86262
+
+#EXTINF:-1,Smile TV
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/32
+
+#EXTINF:-1,MEN'S NEC♂️ 🇯🇵
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
+https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
+#EXTINF:-1,惊艳
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1,pandora
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+#EXTINF:-1,Banana
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
+#EXTINF:-1,潘朵啦
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1,彩虹
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1,amazing tv
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
+#EXTINF:-1,松1
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
+#EXTINF:-1,松1b
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1,松2
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
+#EXTINF:-1,松2b
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1,松3
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+#EXTINF:-1,松3b
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+
+#EXTINF:-1,ABC Australia
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/144
+
+#EXTINF:-1,Al Jazeera
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/145
+
+#EXTINF:-1,Channel News Asia
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/149
+
+#EXTINF:-1,CNN International
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/151
+
+#EXTINF:-1,Russia Today
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/157
+
+#EXTINF:-1,TRT World
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/158
+
+#EXTINF:-1,Fox News
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/154
+
+#EXTINF:-1,CGTN
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/148
+
+#EXTINF:-1,Bloomberg
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/147
+
+#EXTINF:-1,KBS World
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/135
