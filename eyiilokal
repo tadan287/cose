@@ -84,6 +84,10 @@ https://proxy-v.rctiplus.id/live/web/kompas/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/S29tcGFzIFRW/manifest.mpd
 
+#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV L
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=f1e4a191aaae311fd554c3d3786d95f3&sid=182473d891a039f3&token=bc165982528153d6e0bba847b18b4877
+
 #EXTINF:-1 tvg-id="SCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV vidio
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
@@ -135,6 +139,8 @@ https://proxy-v.rctiplus.id/live/web/tvone/index.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=b5a1bd1fdc5f9363cd3886f6a39a2dad&sid=182473d891a039f3&token=62dbea51894a03d9641fdd5887de4e94
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/indosiar/index.m3u8
 
