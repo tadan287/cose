@@ -147,8 +147,8 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTINF:-1,TVRI Nasional
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/37
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1,TVRI KALTIM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 
 #EXTINF:-1,UGTV
@@ -226,10 +226,13 @@ https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1,Ahsan tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 #EXTINF:-1,MQTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1,Linkartv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1,Rinjanitv
@@ -260,6 +263,9 @@ https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/55
 #EXTINF:-1,Cinemax
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/48
 
+#EXTINF:-1,Thrill
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/57
+
 #EXTINF:-1,AXN
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/42
 
@@ -271,9 +277,6 @@ https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/50
 
 #EXTINF:-1,ZeeBioskop
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/69
-
-#EXTINF:-1,Thrill
-https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/57
 
 #EXTINF:-1,K+
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/62
@@ -310,55 +313,68 @@ https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/136
 
 
 #EXTINF:-1,ITALIAN FISHING CH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
 
 #EXTINF:-1,WIRED 2 FISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
 #EXTINF:-1,Wired 2 Fish
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
 #EXTINF:-1,FISHING TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 
 #EXTINF:-1,JUST FISHING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
 
 #EXTINF:-1,TVRI Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/87
 
-#EXTINF:-1,Live 2 - World Cup
+#EXTINF:-1,CCTV 5 SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/85589
 
-#EXTINF:-1,Live 3 - World Cup
+#EXTINF:-1,CCTV 5+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/85590
 
 #EXTINF:-1,Fox Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83277
 
 #EXTINF:-1,Fox Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83278
 
 #EXTINF:-1,Bein Sport 1 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83279
 
 #EXTINF:-1,Bein Sport 2 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83280
 
 #EXTINF:-1,beIN Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/70
 
 #EXTINF:-1,BeIN Sports 1 backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/95
 
 #EXTINF:-1,Bein Sports ID 1+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/72
 
-#EXTINF:-1,Bein Sports ID 2+
+#EXTINF:-1,Bein Sports ID 2+ Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/73
-
-#EXTINF:-1,Premier Sports 4
-https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83285
 
 #EXTINF:-1,Premiere Sport 2
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83283
@@ -366,25 +382,34 @@ https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83283
 #EXTINF:-1,Premiere Sport 3
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83284
 
+#EXTINF:-1,Premier Sports 4
+https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83285
+
 #EXTINF:-1,Red Bull TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/80
 
 #EXTINF:-1,SPO TV 1 ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/84
 
 #EXTINF:-1,SPO TV 2 ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/85
 
 #EXTINF:-1,TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/27840
 
 #EXTINF:-1,TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/27841
 
 #EXTINF:-1,TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/27842
 
 #EXTINF:-1,TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/27843
 
 
