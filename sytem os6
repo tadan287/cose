@@ -1,0 +1,381 @@
+#EXTM3U
+#EXTINF:-1, Generated for Huda
+# Total Playlist: 1 | MAC: Huda | Stream Guard: ON | SID: 182473d891a039f3
+
+#EXTINF:-1,RCTI
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=b0d80297345ab5a8f1386e44e17fb44e&sid=182473d891a039f3&token=060e55ee233f19cd8837a7fea2416169
+#EXTINF:-1,MNC TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=9431abb1cc2ca484c81a4e5b794d9551&sid=182473d891a039f3&token=e907201c3ae1c9bc9cba74fe7e07c446
+#EXTINF:-1,GTV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=c9efb44f883b856e537da1eb49a0e8d5&sid=182473d891a039f3&token=23acaa42911eea3efb8e1c4d7f4f02cc
+#EXTINF:-1,iNews
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=69ac858ff90da607610ad3d3d591c2e7&sid=182473d891a039f3&token=3a7a0949cf07d5284847609dd3de4fb5
+#EXTINF:-1,SCTV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=f1e4a191aaae311fd554c3d3786d95f3&sid=182473d891a039f3&token=bc165982528153d6e0bba847b18b4877
+#EXTINF:-1,STV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=bf39e8778fe27bdd689cd15106ce9c93&sid=182473d891a039f3&token=5c646cd4d611a2d3d0b0ec8d936acfd1
+#EXTINF:-1,Indosiar
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=b5a1bd1fdc5f9363cd3886f6a39a2dad&sid=182473d891a039f3&token=62dbea51894a03d9641fdd5887de4e94
+#EXTINF:-1,TV One
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=7ca6767d2fd079ef721a959524c45dc9&sid=182473d891a039f3&token=d6dd2592aefab450aa1dc0f053edf3cf
+#EXTINF:-1,Trans 7
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=d2dc7d82696ad53ea7e7e4d924b0ab37&sid=182473d891a039f3&token=0202f4ac02a7b3eef05003c7272e25b4
+#EXTINF:-1,Trans TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=6793b23f3fb37397dbbfddaad859cebc&sid=182473d891a039f3&token=b312c74c92de142e3da1673fe19ab2b0
+#EXTINF:-1,Kompas TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=2fd204717f1b685217274a1ce7364f39&sid=182473d891a039f3&token=1287d019e7a4d61bc51864a1a8754e15
+#EXTINF:-1,ANTV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=89df1ba86c9109faaaa8dd2feeec0825&sid=182473d891a039f3&token=49240932b4d66d41064bda7ff2a9bcbd
+#EXTINF:-1,MD TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=cd315564d6dde9503b1c871102b662c3&sid=182473d891a039f3&token=d78f13210a5493f31c79a9667fd4642e
+#EXTINF:-1,RTV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=05ea5b572a768ae87bad8bf84fe23de8&sid=182473d891a039f3&token=fd079bafff5ab18a8fd24a02ae5ee324
+#EXTINF:-1,RTV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=de509058addb11b827daa71f9f903b21&sid=182473d891a039f3&token=af7a3eba55722670518b91cb3c7352b5
+#EXTINF:-1,Mentari TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=1569584365e37addb64526ca5f94ac34&sid=182473d891a039f3&token=ce6dbd61cda76aa89d73311c05afaf6c
+#EXTINF:-1,CNBC Indonesia
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=8177ab32f62c54ba2e61d8b518b3bb50&sid=182473d891a039f3&token=832cfa84df0b442519a2d802b0b9dced
+#EXTINF:-1,CNBC Indonesia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=a5b3ae8afd31c39fb2ef3c72ab501034&sid=182473d891a039f3&token=0532239b3e76211a65bfc04229b2a8b9
+#EXTINF:-1,CNN Indonesia
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=3a867179a81d920e4345081bdbb706c3&sid=182473d891a039f3&token=022159685afe9f043a5860530bbdf206
+#EXTINF:-1,CNN Indonesia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=d263cc35445d18ec56a60bab02719134&sid=182473d891a039f3&token=0c7582c342ae4592ba4eaf598b37b185
+#EXTINF:-1,Metro TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=18e0856b295438ed6c9b2125ee4bae25&sid=182473d891a039f3&token=0f1dac05e8aa998ad5e0bdc2a574ac8a
+#EXTINF:-1,Metrotv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=2eade336b9ac58f337280e557ba7a735&sid=182473d891a039f3&token=78e631eeb4f8908655a91fcb16a309b3
+#EXTINF:-1,Moji
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=10f6f14473ffb620d09ca8ef5454184f&sid=182473d891a039f3&token=a954ab8adca36664c48805108e37ca46
+#EXTINF:-1,DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=6d7bc8a619f9a795e500d7b5ac78d0eb&sid=182473d891a039f3&token=bd22f28a326ea9dbb773f54229cb1775
+#EXTINF:-1,The indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=cd4806e22e53e757369fdd08f68161a4&sid=182473d891a039f3&token=fd8efb6e2e042878c1cf1f945892194d
+#EXTINF:-1,BN Channel
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=b2da5d81b76502209ea3cfca8d1acf1c&sid=182473d891a039f3&token=d349d9b200afa6897aeb6df60dae82ab
+#EXTINF:-1,BTV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=27ca21bd4e05d9826ed6920165eaaa3b&sid=182473d891a039f3&token=64e9dadf567e9963de4ab8a06b1d2fb2
+#EXTINF:-1,ficom chanel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=4e34cf87460064b84046337e0bc81296&sid=182473d891a039f3&token=c209f2ea436cff71142c2fdb3afaf4bf
+#EXTINF:-1,Garuda TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=65f4970186143fce36e4d28cb1f05c4e&sid=182473d891a039f3&token=9ddc3615e2cf158218d63c75594d31dd
+#EXTINF:-1,Garudatv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=0f01f0df6c6dc8680007fe7a6f93eb0b&sid=182473d891a039f3&token=ff77803cbfc01899db98754dcb2a0559
+#EXTINF:-1,dhohotv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=0fbd52be67f12ba92259cd9723d23e3f&sid=182473d891a039f3&token=9873372ecc9769ec72875a95d789e22f
+#EXTINF:-1,Magna Channel
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=b576b0f26777246454865179e70b0f8e&sid=182473d891a039f3&token=68a3195a281a30fa2eb6e22033abccfe
+#EXTINF:-1,Balikpapan tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=f917daa1d9b5959817199174c1af0119&sid=182473d891a039f3&token=c8c47703c30f7130b2b8a6028410b96b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1,Nusantara tv
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=d418119f3700c81623240673bbc2dbd1&sid=182473d891a039f3&token=d2cc3a020a1ef99655c156cd6cc7df56
+#EXTINF:-1,Banjartv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=7fa2fcba1643493601448777c48ef6e8&sid=182473d891a039f3&token=00a9bd569d47667f775155a90794c657
+#EXTINF:-1,DUTA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=579bef9d5fe4904a2aa6baa460687a52&sid=182473d891a039f3&token=43bb4e71a8fabda105eacc8529ce2451
+#EXTINF:-1,JAMBI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=d79fd7a059b1485e7a0816d5aacb5799&sid=182473d891a039f3&token=d3291c4198a256e3988c963cf7c2a249
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1,JAWAPOST
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=05008d4a88c6fbddf1a160bfb4cf5cc9&sid=182473d891a039f3&token=adbdcb2be1de7d6f3af7c7142e0ef195
+#EXTINF:-1,JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=2eecccacc0a286a4e06e76e81a1a63d0&sid=182473d891a039f3&token=a5699b9cb83515af82c8170cfa81f1a5
+#EXTINF:-1,JTV kediri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=0ddf6fd561530b9abbd868c718651bbe&sid=182473d891a039f3&token=ea52119baa65d659b971528e2a2b1326
+#EXTINF:-1,JTV madiun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=cce81ae310bec4f5f178a243be950609&sid=182473d891a039f3&token=90c248813ba28b1cc772594cf930de06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1,BMStv
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=898663092384f9e8a637d538e1782f89&sid=182473d891a039f3&token=2752a6378b5c806a4cfd849cd71bb386
+#EXTINF:-1,BRTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=7ed33cf71be354abd803edf1f118f9ed&sid=182473d891a039f3&token=3b855f9f2fd57c7f984dda144aff218c
+#EXTINF:-1,BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=b678325e4c812e993205e676199fecee&sid=182473d891a039f3&token=a235d34337086522ab15a8ada4ad58a1
+#EXTINF:-1,Bugotv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=b46ffd513a72fdbbafcfdcb3b155ef38&sid=182473d891a039f3&token=3e71e85094ac57125a1b0d408d83a650
+#EXTINF:-1,tabalong tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=f52b09f574c99841641dd61c845a5c77&sid=182473d891a039f3&token=e86508a2b162393353163449507b10a8
+#EXTINF:-1,TVRI Nasional
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=67c5adc80280c945ad38c4baf28fedf6&sid=182473d891a039f3&token=40bf3b3a00231173a57c1aaa7d71c048
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1,TVRI KALTIM
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=9808caec0e1b7a1b81b8e94c23be26b5&sid=182473d891a039f3&token=c441d26c61d93735c5bf1fcfd6008573
+#EXTINF:-1,UGTV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=e28c10e476cc2176737be2d5ccd13d8d&sid=182473d891a039f3&token=6b1c3e2fcb0d45c99c1f70efb71385d4
+#EXTINF:-1,TATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=e4f78018d1875c06b7efeb4d12dc4cdf&sid=182473d891a039f3&token=360b064a7de73296dc90cf2594c00f5c
+#EXTINF:-1,Radartv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=7cf992d0e1693911723eec1fbf2cd41d&sid=182473d891a039f3&token=44cb60a107c0277d166ebaa2bd3c2d84
+#EXTINF:-1,PONTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=1245af36a0a68f6654635304b788a9fe&sid=182473d891a039f3&token=befd245fdc8ad23771ddd7472108dd62
+#EXTINF:-1,padangtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=39b776913961d371a64a1e06b74aa73a&sid=182473d891a039f3&token=955a09cc61e9d77a8be199a93dcb5aa5
+#EXTINF:-1,KSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=1ce6b2aa9cf778dcfd680745c4355e03&sid=182473d891a039f3&token=786685eb5995fc15aa92884f1df30049
+#EXTINF:-1,Kawanuatv
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=632bb6e8b0634fc4a75cbe2a32bb5cff&sid=182473d891a039f3&token=cad50e998bb736f90c8b46cad176234c
+#EXTINF:-1,DENS FOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=93f9e29316f997fc4a40729c93917eb8&sid=182473d891a039f3&token=ced49309ed9b4ccc1141bc5bf94a858e
+#EXTINF:-1,Cartoon Network
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=6f786e17089ac842ba02190943e6284f&sid=182473d891a039f3&token=48684e84adc3a09bcae708e9f2e3819e
+#EXTINF:-1,VTV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=9a2a977b8c994b5a3025fe8b9a41988f&sid=182473d891a039f3&token=cbf39e5fe5ccf11015f0c798040040ff
+#EXTINF:-1,Animax
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=33e1bf915a4b950ee7a0fbf2745a6b63&sid=182473d891a039f3&token=4aa7ea0f4ab2ada6ec76894f9522520e
+#EXTINF:-1,Cartoonito
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=6a3093b5e6924768883f8a75f26c6793&sid=182473d891a039f3&token=8adb49f1920d145d69bf7bff210c479c
+#EXTINF:-1,Nick Jr
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=d0489aa0c5750f3c3bc67ffbf8ed465d&sid=182473d891a039f3&token=13e88294b5d9a8a5d58978c08036dc72
+#EXTINF:-1,Nickelodeon
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=0f91a0d937370c33bba0b423c09e6f17&sid=182473d891a039f3&token=50cc2743f42bef8a940995ea191ef914
+#EXTINF:-1,Dream Works
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=79c5e5d7f17ff014b3d1fe6ddd339e85&sid=182473d891a039f3&token=873dbf96719b8f9b4cecf30b8e3e7bcf
+#EXTINF:-1,Makkah TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=267cef48fb449266ea3859965e9bfbee&sid=182473d891a039f3&token=faa1a366cc2fe6a775c62a4c986d8dd9
+#EXTINF:-1,NABAWITV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=67a6885947b20eaada5290dd6f990745&sid=182473d891a039f3&token=6edd1d3b8038940b6fd008e3ada122ec
+#EXTINF:-1,MADANI tv
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=4f01ef67edaf11f56de3cf977229bb7a&sid=182473d891a039f3&token=1e5623311ea022c012f81023c225d489
+#EXTINF:-1,Alwafataim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=a05bd70dacebe6b489b659345e0a95d6&sid=182473d891a039f3&token=26a07ef814c1bfe52fa2d5b7986ae044
+#EXTINF:-1,Albahjatv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=d886c3bb520f8235cedd4f5f2f93c5a3&sid=182473d891a039f3&token=6860089bcc2719f466ebf62d1e4b64d6
+#EXTINF:-1,Ajwa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=64d5417ee4e57823f20a5cfae83ea533&sid=182473d891a039f3&token=a6f598f5cf2f4cc0f62cf3ba6372ddfd
+#EXTINF:-1,Rodja TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=c3c03ff4bb7f2ada433b247aa1c00a2c&sid=182473d891a039f3&token=5f0729711afa8db7cfdce094985d65e7
+#EXTINF:-1,Rodja
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=de28d3fff3857d3e83f9599c2d7e41d0&sid=182473d891a039f3&token=1c3cac06c4d4e4f08cd85440edc01dfe
+#EXTINF:-1,Ahsan tv
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=c31afb7e4befe4c34c5a8c59d641855f&sid=182473d891a039f3&token=1bb750613e22f025ad8f6da4789dd416
+#EXTINF:-1,MQTV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=6ac0a02a9fc1093e7981b186f2f0f576&sid=182473d891a039f3&token=8abd0e0465d1450b6231e91fb3603bd7
+#EXTINF:-1,Linkartv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=2ae8df1d1673211885ae725290359cf2&sid=182473d891a039f3&token=9138c1ba34e88e08e708c49a6bd023ab
+#EXTINF:-1,Rinjanitv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=9b631acfe374dce1922c6cc4e2632911&sid=182473d891a039f3&token=df71c7122b6db8dbb4c4fb7525b75478
+#EXTINF:-1,salamtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=db803c6be62e3fa515a24cd8263a67b9&sid=182473d891a039f3&token=86654811961866d5d99cf4384ea38bb7
+#EXTINF:-1,saliratv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=61bdd83f391e11ba938ba900a9bed589&sid=182473d891a039f3&token=2262d26480e96229934d930e85e70ef9
+#EXTINF:-1,TV9 nusantara
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=ddc7cfb34b40cc3b81a550174849fffa&sid=182473d891a039f3&token=27690c02517aeface4f02f0bacfc5049
+#EXTINF:-1,HBO
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=cc86f336c86eb0ef7b792a68ca9952c1&sid=182473d891a039f3&token=6f150ce1d7153d82ae30829de1ef65bc
+#EXTINF:-1,HBO Family
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=6f4e2d91780be331a2f4f19b534b4ad6&sid=182473d891a039f3&token=e27d7d6bc89aebc9843cc43898f6f16f
+#EXTINF:-1,HBO Hits
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=0013d61705bb3aac9758fd56e51d7084&sid=182473d891a039f3&token=545360e4d97a098f744048c0f1a1d01f
+#EXTINF:-1,HBO Signature
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=354a7bb81d83d557b81264a1fe506ccc&sid=182473d891a039f3&token=996e0ba6286a57ab211d0cd41dfd84f5
+#EXTINF:-1,Cinemax
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=6f4c0faadf26702aab69cff6f70be2c7&sid=182473d891a039f3&token=37f57156729a8d8d17aa504edf794ba0
+#EXTINF:-1,AXN
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=589801e03ef95db9bc1f9cffa66b3971&sid=182473d891a039f3&token=bd03cfcbaa315c78d671c42e832efa52
+#EXTINF:-1,Galaxy Premium
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=c17fbd27fc01329eddb677a2a2b257d7&sid=182473d891a039f3&token=0eaced17e33863afaa9ce105bba8f940
+#EXTINF:-1,Galaxy
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=b5138929ce60cf6b2c5f5d8ff7678083&sid=182473d891a039f3&token=63a32df09711735bec3dca9cfd5746a9
+#EXTINF:-1,ZeeBioskop
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=f572c53bc63bb46f1f556f7eaaa860d5&sid=182473d891a039f3&token=b499cf6f86d095e66bcd582f90e8e56e
+#EXTINF:-1,Thrill
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=77ffc39e0113d77ae2eae997ef908e71&sid=182473d891a039f3&token=7025a848bcb73378dab5c244e4209c2d
+#EXTINF:-1,K+
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=82ad7d62d7d3a5c8d1aa57768c16f82d&sid=182473d891a039f3&token=9d16e4ac9cafe0147f7759380bf9ad1c
+#EXTINF:-1,TvN
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=47d9dba758e4337b8abcfb9341e60b0b&sid=182473d891a039f3&token=7b0d10e03932089a10d5bd336ee9a4ec
+#EXTINF:-1,TvN Movies
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=3aadb18bf17c095f9d238e51026c6183&sid=182473d891a039f3&token=765bfb0431d5d100d0af32040d545986
+#EXTINF:-1,Citra Drama
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=7875dc2d0bc777cb469269fc0952856e&sid=182473d891a039f3&token=e32875865003713dbab7020a89c046f8
+#EXTINF:-1,Warner TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=fba1376b9b96d4207db3b37e6ef5ad65&sid=182473d891a039f3&token=b49cdf56ea6ac9933c7cfe26356f5ad8
+#EXTINF:-1,Hits
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=45e4f01817723ec4a2dc687f87555a23&sid=182473d891a039f3&token=74f5bfd6dc5a416f0cf8082c318de49b
+#EXTINF:-1,HITS Movies
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=a6d9ba315ef2fe0eb4b3cf8c23956c76&sid=182473d891a039f3&token=0eef2d0957129896ee011f92e602e747
+#EXTINF:-1,HITS Now
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=bb108dce85ebf5e60fe7ba9681d936de&sid=182473d891a039f3&token=2dfef45c9ccdf291b9ce40d442e472d1
+#EXTINF:-1,Citra Bioskop
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=3bd1b427eae6f8ae9f02ecfc6d7883f4&sid=182473d891a039f3&token=bb51069ca81fb1c28c76645c8ef7850e
+#EXTINF:-1,Rock Entertainment
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=727171763dc2af27fd49903d6caa9c62&sid=182473d891a039f3&token=a668fc267a5f305c8bda6ca26b0b8927
+#EXTINF:-1,Lifetime
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=bfa6204024daa612c76682ce4714e8ae&sid=182473d891a039f3&token=18dfaa02f42f1619daf7314a779266d3
+#EXTINF:-1,ITALIAN FISHING CH
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=be5a10821725b742ee21b61a9ea729ba&sid=182473d891a039f3&token=0cee065cdfde4bdab41725b0eb1ab4c4
+#EXTINF:-1,WIRED 2 FISH
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=efd6d1a8794e9ef951f62df8d8cacc9f&sid=182473d891a039f3&token=4deabad16122e8172c4014bb23acbacd
+#EXTINF:-1,Wired 2 Fish
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=efd6d1a8794e9ef951f62df8d8cacc9f&sid=182473d891a039f3&token=4deabad16122e8172c4014bb23acbacd
+#EXTINF:-1,FISHING TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=3f78b10288a1f6dd0d8d9ff80fb4db68&sid=182473d891a039f3&token=d491da3bbf693e3a2e43875e5e86e020
+#EXTINF:-1,JUST FISHING
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=d7ad2d94cb0e936e04ba22e9be263c39&sid=182473d891a039f3&token=9b42350f473cfaefcbe64dbd1035797c
+#EXTINF:-1,TVRI Sport
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=d18903082ec9c3063f4d4f837b57c5b1&sid=182473d891a039f3&token=11b620f2f920b6d138c7297c04a7bd26
+#EXTINF:-1,Live 2 - World Cup
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=00a1d44378f36ddf7b0509b1681af1c8&sid=182473d891a039f3&token=d8308d8275c317d600757a965f903453
+#EXTINF:-1,Live 3 - World Cup
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=7e077ba22e075db0b72e2d0692867874&sid=182473d891a039f3&token=b030efd41689da70b05b7279996c2cac
+#EXTINF:-1,Fox Sport 1
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=340f497980196f7c046f4f685cacf75a&sid=182473d891a039f3&token=96c44e2cac72e735694c5145761792c8
+#EXTINF:-1,Fox Sport 2
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=9f617c1527accc05cd1075112833e1e5&sid=182473d891a039f3&token=66f3b300a88113f5fe7fd3ef029baa77
+#EXTINF:-1,Bein Sport 1 AU
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=d70b383e2e4f0aba84a76697fe7012dd&sid=182473d891a039f3&token=4847b42e0348e35711d1d551c696cfed
+#EXTINF:-1,Bein Sport 2 AU
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=a8f27a3768c109616015d42203fccdf0&sid=182473d891a039f3&token=6911025801f3d2e3faa70d08532672a8
+#EXTINF:-1,beIN Sports 1
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=4d1775a5bee57cdebeac8416dcbc618c&sid=182473d891a039f3&token=230273fdfb78879e4f35495c2cfbbf89
+#EXTINF:-1,BeIN Sports 1 backup
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=39046ba92383350a3ce5ffd8aa020d85&sid=182473d891a039f3&token=d7cbb63022464dc1366b74f8630d3d5e
+#EXTINF:-1,Bein Sports ID 1+
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=f42701a4c1b3ef960194915d63f0f057&sid=182473d891a039f3&token=722be96f46602f2de620bcd182e05909
+#EXTINF:-1,Bein Sports ID 2+
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=90f314d886a2536dba833cc16e30e8f2&sid=182473d891a039f3&token=87575d2a4a2b1f63c76f87f645c67d7f
+#EXTINF:-1,Premier Sports 4
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=32f205bd1fc5513318374fd1c01963a2&sid=182473d891a039f3&token=2ddd7fc6a3bf7565f8a1275f42c45b8e
+#EXTINF:-1,Premiere Sport 2
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=d7602971b15b3cdd2440feebbb4942bb&sid=182473d891a039f3&token=f1203188d07f13f623898a1f63f616cc
+#EXTINF:-1,Premiere Sport 3
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=ac5f9f25e1f16fe23729fd5046f055f5&sid=182473d891a039f3&token=7cd38bad4519b04819a3f807caa26949
+#EXTINF:-1,Red Bull TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=a7f3a2ad3d61103a643a4f2bc315811d&sid=182473d891a039f3&token=4878bebc7f7ad07436a0b0293508bd1a
+#EXTINF:-1,SPO TV 1 ID
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=b112d22eed2369b505794863d44fdb09&sid=182473d891a039f3&token=e742c00ee246100d9685a2301a7e9a82
+#EXTINF:-1,SPO TV 2 ID
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=46448b18a7c52ac500e7e0d3e6642fbb&sid=182473d891a039f3&token=4c36c7189265ac3367be2b8d0ac6f628
+#EXTINF:-1,TNT Sports 1
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=4c378eeef90d7745e6851cc5c86031d6&sid=182473d891a039f3&token=662c6d464740985df28bc425957ebba9
+#EXTINF:-1,TNT Sports 2
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=2b70dbbe2955d7995740a8852deb3044&sid=182473d891a039f3&token=61f9862e5e95591f4e87c72ff25ef266
+#EXTINF:-1,TNT Sports 3
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=c85346ffc32012a2f8be0624cc8ae4ea&sid=182473d891a039f3&token=bd82a4de2e7ce75d36e0917732ef2cf8
+#EXTINF:-1,TNT Sports 4
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=02469f9a503f0f6ef471ca4927572c85&sid=182473d891a039f3&token=54de7f2768a138509bc04131b23178ae
+#EXTINF:-1,History
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=a66976432240d177080c2b6221239c14&sid=182473d891a039f3&token=83a38bcf4f347d9de40521353130a911
+#EXTINF:-1,Discovery Asia
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=9ef591d43638cd70f8315d4182a69ffc&sid=182473d891a039f3&token=abb8512870f66c871ff714bd2a46ee0a
+#EXTINF:-1,Love Nature
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=85cebefeb4de555176952fa0581f8dd1&sid=182473d891a039f3&token=199b09ba2de0902cb209e2e11e15edf9
+#EXTINF:-1,HGTV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=41adf7eb7083c467417cbba0398e8d3a&sid=182473d891a039f3&token=3103c54879defa92658534faf0a95fbb
+#EXTINF:-1,Crime & Investigation
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=c6151895d7ff7880216cfbe31f7dbfa5&sid=182473d891a039f3&token=880c6ac33390ab7033bc93f7324f1694
+#EXTINF:-1,Animal Planet
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=26c4fb691c67cc5ec015336885d2322b&sid=182473d891a039f3&token=7437713c1d3156117637802db972ad73
+#EXTINF:-1,Discovery Channel
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=ed21de4311cd780fe84e0553532aa782&sid=182473d891a039f3&token=f0228795dbb6eba3f4c220ac5c258839
+#EXTINF:-1,DMAX
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=699c9f1256a18ed433a4dc7e8f9b9616&sid=182473d891a039f3&token=1d39ecf67d6d95ef831b5175649b39c8
+#EXTINF:-1,Asia Food Network
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=7f29c7a7d87c4f4bd771ad05d93f789b&sid=182473d891a039f3&token=6fc86943fe18dcead7d3aecc3d6fb367
+#EXTINF:-1,Food Network
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=c2579f1f8941d4c700fa3f013f309b96&sid=182473d891a039f3&token=9707372ee0ea3f9673bbf376626822ac
+#EXTINF:-1,Jiangsu TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=2166e8dc76d7c1f684e3ffe3eba5f46e&sid=182473d891a039f3&token=ef436e2cb30a0865f182ecef7e8457f5
+#EXTINF:-1,Hunan TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=23fee24456d2fe4779d61cb1b5e0450b&sid=182473d891a039f3&token=00d470a057e97f897cc70cc9f89b1a86
+#EXTINF:-1,Anhui TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=8919e3aedbd86f697b5d2c5bc5df21f8&sid=182473d891a039f3&token=7ceee2c26b180b48c094224740f3572d
+#EXTINF:-1,Arirang
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=5b67aa5f10a178d640d786955300b8dd&sid=182473d891a039f3&token=3069696ffdeeb7927122ea2c10a7f13e
+#EXTINF:-1,CNBC Asia
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=7321bee26ecebbdfcb0370429764fa45&sid=182473d891a039f3&token=726a54f73033ea2b48736eaae1b589b8
+#EXTINF:-1,Fashion TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=324d466b153ea8ebaabcb0d409dae182&sid=182473d891a039f3&token=67b4c8322520d46a8bccc72217bf62e1
+#EXTINF:-1,First Warrior
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=b0dc918a6e32d20b273191edc6f8835e&sid=182473d891a039f3&token=5dc9106ffdaba20ccec5240ae18a9219
+#EXTINF:-1,TLC
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=86adfbc943195491a8595f51ca508bc5&sid=182473d891a039f3&token=35282aa3c277446b37845a5bbe24f239
+#EXTINF:-1,Smile TV
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=dd619645dd36aed95615e1719b6b613f&sid=182473d891a039f3&token=47d88a34578baf477d0360c5bccacf63
+#EXTINF:-1,MEN'S NEC♂️ 🇯🇵
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
+https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
+#EXTINF:-1,惊艳
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=90070bd8c0259ef6a6856e238fb93cbe&sid=182473d891a039f3&token=c1a3637f30a2778cd466e7129500955b
+#EXTINF:-1,pandora
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=830422ee53fe659d27589b1ef34b9113&sid=182473d891a039f3&token=9e5c84d2c551ab03cfd7ed66ed9b4643
+#EXTINF:-1,Banana
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=8408740b0983a174699bd0b6e94b02e2&sid=182473d891a039f3&token=8dc76ad1f5848fabd6c61a42a936978d
+#EXTINF:-1,潘朵啦
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=4508e6591ae7a7e20aea0d1fb6cc4015&sid=182473d891a039f3&token=d32cfec88e100dacd9e2d86b060b30df
+#EXTINF:-1,彩虹
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=90e45ae8c7efe87af21488e6936995e1&sid=182473d891a039f3&token=38537039f62ad99122f4631753b00033
+#EXTINF:-1,amazing tv
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=be70b9cb80b63eec77e2c69a64fb06f3&sid=182473d891a039f3&token=93444c36c27086da6899f33a65c1fd9e
+#EXTINF:-1,松1
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=b224a23ea7ebe063d32616501705a540&sid=182473d891a039f3&token=84172a5b71b9f80b07eaaa5f4bae6c4c
+#EXTINF:-1,松1b
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=495b8b79f9fb1db2a6928771969f7f47&sid=182473d891a039f3&token=af05a2bea792c8a61f0e0e9fb0c62323
+#EXTINF:-1,松2
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=f6a517f25cc442b7ea4dc1bd857dbee4&sid=182473d891a039f3&token=c6c449ebf096cd1e8543cb552253a4e8
+#EXTINF:-1,松2b
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=3f2050ef36455d545f579f9e28b2656f&sid=182473d891a039f3&token=7985461513bc4b9aa23b66e4c164ca97
+#EXTINF:-1,松3
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=577fb1ecbd88cc69c2f36fef718a628d&sid=182473d891a039f3&token=8d6c6cadaa2870824cc91b22c160360a
+#EXTINF:-1,松3b
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=140025fd11f8de58a60f99d58f4a79cf&sid=182473d891a039f3&token=4554014dbabcabe95aa0461fabf90010
+#EXTINF:-1,ABC Australia
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=62828cba7d80b1ada3f5315201ef93b1&sid=182473d891a039f3&token=9adfa3d4f6da9d0c98c7b04333a48e76
+#EXTINF:-1,Al Jazeera
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=df6cf18380827726be5a35e9dc6c8168&sid=182473d891a039f3&token=7b889550c6fda481c639979b0e0adcdf
+#EXTINF:-1,Channel News Asia
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=aad71b6c7786f81c78b56ec4f11e3021&sid=182473d891a039f3&token=6b7076ef0cf80128384c72cbe983d62d
+#EXTINF:-1,CNN International
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=a0883d4cd339fb22cdf4196860c82ce8&sid=182473d891a039f3&token=ee0dfd69bc908d988dcf580a821b01fa
+#EXTINF:-1,Russia Today
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=d094cc7bb7cfc88cb501dd39244a15bb&sid=182473d891a039f3&token=487ea722b09b9674c9a41e7dca701b4b
+#EXTINF:-1,TRT World
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=7f697e4932c3ae0637ccd538d3e1de32&sid=182473d891a039f3&token=644cbf2017bb6f734415904e5b7e9731
+#EXTINF:-1,Fox News
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=403b83e8799e440ee0eddba6c5ba6b6d&sid=182473d891a039f3&token=ae6774973407e79cd36c7d3fa978172c
+#EXTINF:-1,CGTN
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=78db7b800517450991f246aeef14fb74&sid=182473d891a039f3&token=7af01be6be293e5fca7e0657873f0e96
+#EXTINF:-1,Bloomberg
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=d0545a3140a689e3b83437f3d36409b7&sid=182473d891a039f3&token=915e349e605a718c8340b5cb7a0b90a9
+#EXTINF:-1,KBS World
+http://kolingsat.my.id/iptv/stream.php?mac=Huda&ch=a11d5941fcc9d623e6e194496c4ad510&sid=182473d891a039f3&token=c0bc78ca9001030802edbdb9a34b705c
+
