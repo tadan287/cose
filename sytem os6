@@ -121,6 +121,15 @@ https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/1
 #EXTINF:-1,ANTV SPM
 http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRqU_VEZRv0Fl_8YeEZ8UsRY
 
+#EXTINF:-1,ANTV vidio
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+
 #EXTINF:-1,MD TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/19
 
@@ -316,6 +325,18 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 
+#EXTINF:-1,Cartoon Network english
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg",CARTOON NETWORK 🇻🇳
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+
 #EXTINF:-1,Cartoon Network
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/174
 
@@ -327,14 +348,46 @@ https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/169
 
 #EXTINF:-1,Cartoonito
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/173
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
+#EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg",CARTOONITO 🇻🇳
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+
 #EXTINF:-1,Nick Jr
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/182
+
+#EXTINF:-1,Nick Jr 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://proxy-v.rctiplus.id/live/web/nickjr/index.m3u8
 
 #EXTINF:-1,Nickelodeon
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/181
 
 #EXTINF:-1,Dream Works
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/177
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Dreamworks.id" tvg-name="Dreamworks HD" tvg-logo="https://mimipipi22.github.io/logo/kids/dreamworks.jpg",DREAMWORKS 🇻🇳
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CBeebies.id" tvg-name="CBeebies HD" tvg-logo="https://mimipipi22.github.io/logo/kids/cbeebies.jpg",CBEEBIES BBC 🇻🇳
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Zoomoo.id" tvg-name="Zoomoo" tvg-logo="https://mimipipi22.github.io/logo/kids/zoomoo.jpg",ZOO MOO (FEED)
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+
 
 
 #EXTINF:-1,Makkah TV
@@ -382,14 +435,30 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1,HBO
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/52
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.jpg",HBO TS
+http://013tv.com:8080/F33848/cbd9779b/306484
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.jpg",HBO 
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
+
 #EXTINF:-1,HBO Family
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/53
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbofam.jpg",HBO FAMILY TS
+http://013tv.com:8080/F33848/cbd9779b/197972
 
 #EXTINF:-1,HBO Hits
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/54
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbohits.jpg",HBO HITS TS
+http://013tv.com:8080/F33848/cbd9779b/306486
+http://013tv.com:8080/F33848/cbd9779b/196480
+http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34540
+
 #EXTINF:-1,HBO Signature
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/55
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbosig.jpg",HBO Signature TS
+http://013tv.com:8080/F33848/cbd9779b/306483
 
 #EXTINF:-1,Cinemax
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/48
