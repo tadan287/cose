@@ -4,46 +4,139 @@
 #EXTINF:-1,RCTI
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/26
 
+#EXTINF:-1,RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1,RCTI SPM
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRgGwvgBkFz4lqoryvAzEKzA
+
 #EXTINF:-1,MNC TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/22
+
+#EXTINF:-1,MNCTV+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1,MNCTV SPM
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRrhJF9VPC4X61h7pgJ37q6g
 
 #EXTINF:-1,GTV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/9
 
+#EXTINF:-1,GTV+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1,GTV SPM
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRoVSjf2onxUm95pYqUSc5XI
+
 #EXTINF:-1,iNews
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/12
 
+#EXTINF:-1,iNews+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:-1,iNews SPM
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRhpTq-DMNQZ98QzrWt1eciU
+
 #EXTINF:-1,SCTV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/30
+
+#EXTINF:-1,SCTV Vidio
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/204/index.mpd
+
+#EXTINF:-1,SCTV SPM
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRsPxWAgyZTvEmHSbE_IUH5A
 
 #EXTINF:-1,STV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 
+#EXTINF:-1,OXYGEN TV
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+
 #EXTINF:-1,Indosiar
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/11
+
+#EXTINF:-1,Indosiar SPM
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRmDUdjwG6cxY-fo1sXNNp7A
 
 #EXTINF:-1,TV One
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/36
 
+#EXTINF:-1,TV One DENS
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
+
 #EXTINF:-1,Trans 7
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/33
+
+#EXTINF:-1,Trans 7 DTK
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1,Trans 7 SPM
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRuaFQU6DWniuXJ6NyMjhcAo
 
 #EXTINF:-1,Trans TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/34
 
+#EXTINF:-1,Trans TV DTK
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1,Trans TV SPM
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRhT2UD172vZ7eX9wePkew8M
+
 #EXTINF:-1,Kompas TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/16
+
+#EXTINF:-1,KompasTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1,ANTV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/1
 
+#EXTINF:-1,ANTV SPM
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRqU_VEZRv0Fl_8YeEZ8UsRY
+
 #EXTINF:-1,MD TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/19
 
+#EXTINF:-1,MDTV DENS
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1,MDTV VIDIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRlvPphvD7DU58u1jaFiwSr8
+
 #EXTINF:-1,RTV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/29
+
+#EXTINF:-1,RTV 2
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
+
 #EXTINF:-1,RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 #EXTINF:-1,Mentari TV
@@ -51,47 +144,77 @@ https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/20
 
 #EXTINF:-1,CNBC Indonesia
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/4
+
 #EXTINF:-1,CNBC Indonesia 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
 #EXTINF:-1,CNN Indonesia
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/5
+
+#EXTINF:-1,CNN Indonesia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_sleng.m3u8
+
 #EXTINF:-1,CNN Indonesia 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+
 #EXTINF:-1,Metro TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/21
+
+#EXTINF:-1,Metro TV DENS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
+
 #EXTINF:-1,Metrotv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
 #EXTINF:-1,Moji
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/23
+
+#EXTINF:-1,Moji HD
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
+
 #EXTINF:-1,DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
 #EXTINF:-1,The indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+
 #EXTINF:-1,BN Channel
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/2
 
 #EXTINF:-1,BTV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/3
+
 #EXTINF:-1,ficom chanel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
 #EXTINF:-1,Garuda TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/7
+
 #EXTINF:-1,Garudatv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
 #EXTINF:-1,dhohotv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
 #EXTINF:-1,Magna Channel
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/18
 
+#EXTINF:-1,Magna TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
 
 #EXTINF:-1,Balikpapan tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -132,18 +255,23 @@ http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1,BMStv
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+
 #EXTINF:-1,BRTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+
 #EXTINF:-1,BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+
 #EXTINF:-1,Bugotv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
 #EXTINF:-1,tabalong tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
 #EXTINF:-1,TVRI Nasional
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/37
 
