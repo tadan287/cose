@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1,RCTI
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/26
 
@@ -63,6 +62,11 @@ http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1,OXYGEN TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+
+#EXTINF:-1,LIVE BRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.tanrixstreamorigin.com/live/channel7.m3u8
 
 #EXTINF:-1,Indosiar
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/11
