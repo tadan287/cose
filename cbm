@@ -589,6 +589,7 @@ http://aflaxtv.xyz:8080/F33848/cbd9779b/306483
 
 #EXTINF:-1 tvg-id="405" tvg-logo="https://iili.io/Ju79znp.png" group-title="HBO Group",Cinemax
 http://aflaxtv.xyz:8080/F33848/cbd9779b/197964
+
 # EXTINF:-1 tvg-id="IDXChannel.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="Indonesia Channels",IDX (Vision+)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1061,14 +1062,12 @@ https://proxy-v.rctiplus.id/live/web/formosa/index.m3u8
 # EXTINF:-1 tvg-id="26" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png" group-title="Local Channels",Bali TV (Vision +)
 # EXTINF:-1 tvg-id="27" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png" group-title="Local Channels",Bandung TV (Vision+)
 
-
 #EXTINF:-1 tvg-id="auto.13.bomb.di.jakarta" group-title="VOD INDO",13 Bomb Di Jakarta
 https://pixeldrain.com/api/file/ezqDwxkK?download
 
 #EXTINF:-1 tvg-id="auto.hamka.siti.raham.vol.2" group-title="VOD INDO",Hamka & Siti Raham Vol. 2
 https://pixeldrain.com/api/file/ZQVckcfF?download
 # "https://pixeldrain.com/api/file/JKM91MwQ?download
-# "
 
 #EXTINF:-1 tvg-id="auto.layangan.putus.the.movie" group-title="VOD INDO",Layangan Putus: The Movie
 https://pixeldrain.com/api/file/6fwxFxx9?download
@@ -1130,7 +1129,6 @@ https://pixeldrain.com/api/file/dwi7mgXX?download
 #EXTINF:-1 tvg-id="auto.titip.surat.untuk.tuhan" group-title="VOD INDO",Titip Surat Untuk Tuhan
 https://pixeldrain.com/api/file/845PJ3Gb?download
 # "https://pixeldrain.com/api/file/74gipWbg?download
-# "
 
 #EXTINF:-1 tvg-id="auto.kisah.tanah.jawa.pocong.gundul" group-title="VOD INDO",Kisah Tanah Jawa: Pocong Gundul
 https://pixeldrain.com/api/file/xTZuUgAW?download
@@ -1141,7 +1139,6 @@ https://pixeldrain.com/api/file/smj56rTF?download
 #EXTINF:-1 tvg-id="auto.losmen.melati" group-title="VOD INDO",Losmen Melati
 https://pixeldrain.com/api/file/zBP5ULUD?download
 # "https://pixeldrain.com/api/file/zBP5ULUD?download
-# "
 
 #EXTINF:-1 tvg-id="auto.malam.para.jahanam" group-title="VOD INDO",Malam Para Jahanam
 https://pixeldrain.com/api/file/a9Y8CEgx?download
@@ -1183,12 +1180,6 @@ https://pixeldrain.com/api/file/ocwVztMT?download
 
 #EXTINF:-1 tvg-id="auto.trinil" group-title="VOD INDO",Trinil
 https://pixeldrain.com/api/file/gu6tTkv4?download
-
-
-
-
-
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
