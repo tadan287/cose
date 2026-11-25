@@ -61,7 +61,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rctiplus123.mikrofast.my.id/rctiplus/inews/redirect.m3u8
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/12
 
 #EXTINF:-1,iNews R+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -69,7 +68,6 @@ https://rctiplus123.mikrofast.my.id/rctiplus/inews/redirect.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://rplus.inisemar.my.id/inews.m3u8
 https://rctiplus123.mikrofast.my.id/rctiplus/inews/redirect.m3u8
-#https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/12.m3u8
 
 #EXTINF:-1,iNews R+
 #EXTVLCOPT:http-user-agent=android-R+
@@ -81,14 +79,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 https://dsgtq5sngxkde.cloudfront.net/inews/index.m3u8
-http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRhpTq-DMNQZ98QzrWt1eciU
 
 #EXTINF:-1,SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=204
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/30
 
 #EXTINF:-1,SCTV Vidio
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -102,7 +98,6 @@ https://vidio123.mikrofast.web.id/vidio/204/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=9e9aba7068ca4c7f8a73381bef5f8742&ch=0008&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
-#http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRsPxWAgyZTvEmHSbE_IUH5A
 
 #EXTINF:-1,STV Samarinda
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
@@ -110,6 +105,27 @@ http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1,OXYGEN TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+
+#EXTINF:-1 tvg-id="DuniaLain.id@SD"tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/4f477c14-5ec0-47d2-9665-925fe0056c64.png",Dunia Lain
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/RHVuaWEgTGFpbg/manifest.mpd
+
+#EXTINF:-1 tvg-id="nsert.id@SD"tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/b2b24ee2-1a34-4fb2-af2f-2a00a28d15c9.png",Insert
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/330-aW5zZXJ0LWNoLXNjdGUzNQ/live.mpd
+
+#EXTINF:-1 tvg-id="EatNGo.id@SD"tvg-logo="___",Eat N Go
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/RWF0IE4gR28/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/oxygenTV.png",Oxygen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -134,7 +150,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=205
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/11
 
 #EXTINF:-1,Indosiar vidio
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -148,7 +163,6 @@ https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=0009&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
-#http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRmDUdjwG6cxY-fo1sXNNp7A
 
 #EXTINF:-1,Indosiar V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -162,7 +176,6 @@ https://dsgtq5sngxkde.cloudfront.net/indosiar/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/VFZPTkU/manifest.mpd
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/36
 
 #EXTINF:-1,TV One DENS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -181,7 +194,6 @@ https://dsgtq5sngxkde.cloudfront.net/tvone/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=widevine 
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=0fd7b7d368bc44bc9b4dece20acc3e33&ch=0007&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/33
 
 #EXTINF:-1,Trans 7 DTK
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
@@ -194,14 +206,12 @@ https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 https://dsgtq5sngxkde.cloudfront.net/trans7/index.m3u8
-#http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRuaFQU6DWniuXJ6NyMjhcAo
 
 #EXTINF:-1,Trans TV V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine 
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=7a69cfc9e135493f87ac4efd63000429&ch=0006&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/34
 
 #EXTINF:-1,Trans TV DTK
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
@@ -344,7 +354,6 @@ https://dsgtq5sngxkde.cloudfront.net/metro/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 https://dsgtq5sngxkde.cloudfront.net/moji/index.m3u8
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/23
 
 #EXTINF:-1,Moji HD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -390,14 +399,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h108/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 https://dsgtq5sngxkde.cloudfront.net/bn/index.m3u8
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/2
 
 #EXTINF:-1,BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 https://dsgtq5sngxkde.cloudfront.net/btv/index.m3u8
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/3
 
 #EXTINF:-1,ficom chanel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -542,6 +549,20 @@ https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="185" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8c6fb1a8-44f6-4d20-9093-fb4bb93bc5cd.jpg", Movies News
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/TW92aWVzIE5ld3M/manifest.mpd
+
+#EXTINF:-1 tvg-id="274"tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9a3142d7-c566-476f-b6f8-d0d7350b2733.jpg",Travel TV
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/VHJhdmVsIFRW/manifest.mpd
+
 #EXTINF:-1,DENS FOOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
@@ -558,25 +579,69 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg",CARTOON NETWORK 🇻🇳
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
-#EXTINF:-1,Cartoon Network
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/174
+#EXTINF:-1,Mentari tv Vidio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=8237
+
+#EXTINF:-1,cbeebies V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/cbeebies/index.m3u8
+
+#EXTINF:-1,Nick Jr V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/nickjr/index.m3u8
+
+#EXTINF:-1,Dream Works V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/dreamworks/index.m3u8
+
+#EXTINF:-1 tvg-id="KidsTV.id@SD"tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",KidsTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/kidstv/index.m3u8
+
+#EXTINF:-1,Hapy kids V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/hapykids/index.m3u8
 
 #EXTINF:-1,VTV
 #https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/40
 
-#EXTINF:-1,Animax
+#EXTINF:-1,Animax V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 https://dsgtq5sngxkde.cloudfront.net/animax/index.m3u8
 #https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/169
 
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD"tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png",ZooMoo V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/zoomoo/index.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD"tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/moonbug/index.m3u8
+
 #EXTINF:-1,Cartoonito V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 https://dsgtq5sngxkde.cloudfront.net/cartoonito/index.m3u8
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/173
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -584,13 +649,6 @@ https://dsgtq5sngxkde.cloudfront.net/cartoonito/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
 #EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg",CARTOONITO 🇻🇳
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
-
-#EXTINF:-1,Nick Jr V+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-https://dsgtq5sngxkde.cloudfront.net/nick/index.m3u8
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/182
 
 #EXTINF:-1,Nick Jr 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -604,13 +662,6 @@ https://proxy-v.rctiplus.id/live/web/nickjr/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://dsgtq5sngxkde.cloudfront.net/nickelodeon/index.m3u8
 #https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/181
-
-#EXTINF:-1,Dream Works
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-https://dsgtq5sngxkde.cloudfront.net/dreamworks/index.m3u8
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/177
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -629,6 +680,42 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 #EXTINF:-1 tvg-id="Zoomoo.id" tvg-name="Zoomoo" tvg-logo="https://mimipipi22.github.io/logo/kids/zoomoo.jpg",ZOO MOO (FEED)
 https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 
+#EXTINF:-1 tvg-id="DuniaAnak.id@SD"tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/76e39ba2-62b9-4f96-90ae-3de803edb400.png",Dunia Anak
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/RHVuaWEgQW5haw/manifest.mpd
+
+#EXTINF:-1 tvg-id="248"tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e735e2f-e7db-47ec-b13b-23d3a0342124.jpg",Cartoon TV Premium
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd
+
+#EXTINF:-1 tvg-id="249"tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e422d53-5c00-49ea-8422-e2a3f1e03f70.jpg",Cartoon TV
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q2FydG9vbiBUVg/manifest.mpd
+
+#EXTINF:-1 tvg-id="250"tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/87c43b67-b234-41a8-b188-ae6b498a40b4.jpg",Cartoon TV Classic
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd
+
+#EXTINF:-1 tvg-id="__"tvg-logo="https://images.indihometv.com/assets/1705331415_CARTOONITO-88-HD-BW.png",Cartoonito
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q2FydG9vbml0bw/manifest.mpd
+
+
 #EXTINF:-1,Makkah TV V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -641,10 +728,25 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/muslimtv/index.m3u8
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/189
+
+#EXTINF:-1 tvg-id="Khazanah.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/a445911e-df40-413d-b4d5-59cff4b342cc.png",Khazanah
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/S2hhemFuYWg/manifest.mpd
+
+#EXTINF:-1,NABAWI TV
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/TmFiYXdpIFRW/manifest.mpd
+
 #EXTINF:-1,NABAWITV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://202.150.161.117:8000/play/NabawiTV
+
 #EXTINF:-1,MADANI tv
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1,Alwafataim
@@ -681,86 +783,215 @@ https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1,TV9 nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PijarTV.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/48b43602-802f-4e02-996f-25683da4d173.jpg",Pijar TV
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/UGlqYXIgVFY/manifest.mpd
+
+#EXTINF:-1 tvg-id="WarnerChannel"tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/3653/brand.gif", Warner HD
+#EXTVLCOPT:http-user-agent=izzigo/11.5.1(18)_prd izzigo ahh (Linux;Android 16) AndroidXMedia3/1.0.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
+https://live3-ott.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
+
+#EXTINF:-1 tvg-id="MoviesNow.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s147571_ld_h15_aa.png?lock=720x540",MOVIES NOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="MNX.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s147570_ld_h15_aa.png?lock=720x540",MNX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143548_ld_h15_aa.png?lock=720x540",MN+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="RomedyNow.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143729_ld_h15_aa.png?lock=720x540",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="BBC First" tvg-logo="https://tse3.mm.bing.net/th/id/OIP._2P17CH7utW-IubLX2u_YgAAAA?pid=Api&P=0&h=220",BBC First
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-id="Miramax Film" tvg-logo="https://art.pixilart.com/afe9e5311aad7d6.png",Miramax Film
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e08a6933238d3fb585c00a7d95e896c:2d55d1208eaeabcc57e3b7b92c4e9f09
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1,HBO
-https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/52
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.jpg",HBO TS
-http://013tv.com:8080/F33848/cbd9779b/306484
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.jpg",HBO 
-http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
 #EXTINF:-1,HBO Family
-https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/53
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbofam.jpg",HBO FAMILY TS
-http://013tv.com:8080/F33848/cbd9779b/197972
 
-#EXTINF:-1,HBO Hits
-https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/54
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbohits.jpg",HBO HITS TS
-http://013tv.com:8080/F33848/cbd9779b/306486
-http://013tv.com:8080/F33848/cbd9779b/196480
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34540
+#EXTINF:-1,HBO comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
 #EXTINF:-1,HBO Signature
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/55
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbosig.jpg",HBO Signature TS
-http://013tv.com:8080/F33848/cbd9779b/306483
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
 
 #EXTINF:-1,Cinemax
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/48
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
+https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
-#EXTINF:-1,AXN
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/42
+#EXTINF:-1 tvg-logo="", Cinemax East
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
 
-#EXTINF:-1,Galaxy Premium
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/51
+#EXTINF:-1 tvg-logo="", Cinemax West
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
-#EXTINF:-1,Galaxy
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/50
+#EXTINF:-1 tvg-id="BioskopIndonesia.id@SD"tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png",Bioskop Indonesia HD
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
 
-#EXTINF:-1,ZeeBioskop
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/69
+#EXTINF:-1 tvg-id="CinemaWorld.my@SD"tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/aa0b92a1-60c1-4a7f-83ee-432c7323c97a.jpg",Cinema World HD
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q2luZW1hIFdvcmxk/manifest.mpd
 
-#EXTINF:-1,Thrill
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/57
+#EXTINF:-1,AXN V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/axn/index.m3u8
+
+#EXTINF:-1,Galaxy Premium V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/galaxypremium/index.m3u8
+
+#EXTINF:-1,Galaxy V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/galaxy/index.m3u8
+
+#EXTINF:-1,ZeeBioskop 
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/WmVlIEJpb3Nrb3A/manifest.mpd
+
+#EXTINF:-1,ZeeBioskop V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/zeebioskop/index.m3u8
+
+#EXTINF:-1,Thrill V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/thrill/index.m3u8
 
 #EXTINF:-1,K+
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/62
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/kplus/index.m3u8
 
 #EXTINF:-1,TvN
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/143
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/dHZOQ2hhbm5lbA/manifest.mpd
 
-#EXTINF:-1,TvN Movies
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/67
+#EXTINF:-1,TvN V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/tvn/index.m3u8
+
+#EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD"tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png",tvN Movies HD
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/VFZOIE1vdmllcw/manifest.mpd
+
+#EXTINF:-1,TvN Movies V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/tvnmovies/index.m3u8
 
 #EXTINF:-1,Citra Drama
 #https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/127
 
-#EXTINF:-1,Warner TV
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/68
+#EXTINF:-1,Warner TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/warner/index.m3u8
 
-#EXTINF:-1,Hits
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/86263
+#EXTINF:-1,Hits V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/hits/index.m3u8
 
-#EXTINF:-1,HITS Movies
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/58
+#EXTINF:-1,HITS Movies V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/hitsmovies/index.m3u8
 
-#EXTINF:-1,HITS Now
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/56
+#EXTINF:-1,HITS Now V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/hitsnow/index.m3u8
 
 #EXTINF:-1,Citra Bioskop
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/citraioskop/index.m3u8
 
-#EXTINF:-1,Rock Entertainment
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/139
+#EXTINF:-1,Rock Entertainment V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/rockentertainment/index.m3u8
 
-#EXTINF:-1,Lifetime
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/136
-
+#EXTINF:-1,Lifetime V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/lifetime/index.m3u8
 
 #EXTINF:-1,ITALIAN FISHING CH
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
@@ -777,14 +1008,60 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 #EXTINF:-1,JUST FISHING
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
 
+#EXTINF:-1,SPO TV 1 ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=b4814ae93ca84dd3bb5b0aff76ca263f&ch=0119&type=drm
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+#EXTINF:-1,SPO TV 2 ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=46d9cf39b9a84183b8d5022ac8f4bc41&ch=0120&type=drm
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
 #EXTINF:-1,TVRI Sport
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/87
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/VFZSSSBTcG9ydA/manifest.mpd?signature=NmNkMGM1NmE5NWZjNDRhNjNiMjViNGFjNzZjZGNjZWY=&time=15256410363&device_id=Z6mqrW9Z7OFrjmg6FeMoZPQbpo03iZdAAuY8TNuSpJMKaLEBrg33gFHr8g
 
-#EXTINF:-1,Live 2 - World Cup
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/85589
+#EXTINF:-1,SOCCER Channel V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=63c0da12bb4d48afbaf053f51dff2353&ch=0115&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1,Live 3 - World Cup
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/85590
+#EXTINF:-1,beIN Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d6m3sfa7e58z5&id=3b0660e05eed4d769521eb0275aab3ab&ch=0122&type=drm
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd  
+
+#EXTINF:-1,BeIN Sports 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d6m3sfa7e58z5&id=cfca527d0f16403396a71b2d3d54c32f&ch=0123&type=drm
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd  
+
+#EXTINF:-1,BeIN Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d6m3sfa7e58z5&id=a265695db5cb461095cbfefc02ad793b&ch=0124&type=drm
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports4.qa@MENA"tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d6m3sfa7e58z5&id=2e55bc8199044c27b1dbb827af65a04f&ch=0125&type=drm
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports5.qa@MENA"tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d6m3sfa7e58z5&id=fe4d00f07e2f43b789102b84b4d243a9&ch=0126&type=drm
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1,Fox Sport 1
 #https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83277
@@ -797,12 +1074,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 
 #EXTINF:-1,Bein Sport 2 AU
 #https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/83280
-
-#EXTINF:-1,beIN Sports 1
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/70
-
-#EXTINF:-1,BeIN Sports 1 backup
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/95
 
 #EXTINF:-1,Bein Sports ID 1+
 #https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/72
@@ -822,12 +1093,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1,Red Bull TV
 https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/80
 
-#EXTINF:-1,SPO TV 1 ID
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/84
-
-#EXTINF:-1,SPO TV 2 ID
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/85
-
 #EXTINF:-1,TNT Sports 1
 #https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/27840
 
@@ -842,58 +1107,108 @@ https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/80
 
 
 #EXTINF:-1,History
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/167
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/history/index.m3u8
 
 #EXTINF:-1,Discovery Asia
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/164
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/discoveryasia/index.m3u8
 
 #EXTINF:-1,Love Nature
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/168
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/lovenature/index.m3u8
 
 #EXTINF:-1,HGTV
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/134
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/hgtv/index.m3u8
 
 #EXTINF:-1,Crime & Investigation
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/130
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/crimeinvestigation/index.m3u8
 
 #EXTINF:-1,Animal Planet
-https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/162
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/animalplanet/index.m3u8
 
 #EXTINF:-1,Discovery Channel
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/165
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/discoverychannel/index.m3u8
 
 #EXTINF:-1,DMAX
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/166
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/dmax/index.m3u8
 
 #EXTINF:-1,Asia Food Network
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/125
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/asiafoodnetwork/index.m3u8
 #EXTINF:-1,Food Network
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/133
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/foodnetwork/index.m3u8
 
 #EXTINF:-1,Jiangsu TV
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/61
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/jiangsu/index.m3u8
 
 #EXTINF:-1,Hunan TV
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/59
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/hunan/index.m3u8
 
 #EXTINF:-1,Anhui TV
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/anhui/index.m3u8
 
 #EXTINF:-1,Arirang
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/124
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/arirang/index.m3u8
 
 #EXTINF:-1,CNBC Asia
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/150
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/cnbcasia/index.m3u8
 
 #EXTINF:-1,Fashion TV
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/131
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/fashion/index.m3u8
 
 #EXTINF:-1,First Warrior
 #https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/78
 
 #EXTINF:-1,TLC
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/86262
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/tlc/index.m3u8
 
 #EXTINF:-1,Smile TV
 #https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/32
@@ -902,7 +1217,10 @@ https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/162
 #https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/144
 
 #EXTINF:-1,Al Jazeera
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/145
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+https://dsgtq5sngxkde.cloudfront.net/aljazera/index.m3u8
 
 #EXTINF:-1,Channel News Asia
 #https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/149
