@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1,Play Music
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-
 #EXTINF:-1,RCTI
 #EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -82,12 +78,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #KODIPROP:inputstream=inputstream.adaptive
 https://dsgtq5sngxkde.cloudfront.net/inews/index.m3u8
 
-#EXTINF:-1,SCTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=204
-
 #EXTINF:-1,SCTV Vidio
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-origin=https://m.vidio.com
@@ -102,6 +92,12 @@ https://vidio123.mikrofast.web.id/vidio/204/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
+
+#EXTINF:-1,SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=204
 
 #EXTINF:-1,SCTV v+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -147,12 +143,6 @@ http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 
-#EXTINF:-1,Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=205
-
 #EXTINF:-1,Indosiar vidio
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-origin=https://m.vidio.com
@@ -165,6 +155,12 @@ https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=0009&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
+#EXTINF:-1,Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=205
 
 #EXTINF:-1,TV One
 #EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
@@ -452,7 +448,6 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 https://dsgtq5sngxkde.cloudfront.net/tvri/index.m3u8
-#https://iptv.lancartech.co.id:443/Enrico@8/Enrico1234/37
 
 #EXTINF:-1,UGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
